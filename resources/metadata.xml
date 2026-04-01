@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>7a5a7e7d-2a86-470f-9d3b-f444b4c6cf20</identifier>
+  <displayType>Simulink Model</displayType>
+  <translatedDisplayType>
+    <en_US>Simulink Model</en_US>
+    <ja_JP>Simulink モデル</ja_JP>
+    <ko_KR>Simulink 모델</ko_KR>
+    <zh_CN>Simulink 模型</zh_CN>
+  </translatedDisplayType>
+  <name>Quanser QArm Pick and Place using MathWorks Toolboxes</name>
+  <author>Quanser</author>
+  <version>1.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/7a5a7e7d-2a86-470f-9d3b-f444b4c6cf20/7c47b33e-f491-45a1-a168-bb9d266a99b3/packages/zip?src=addons_ml_desktop_install&amp;profile_id=40318826&amp;license=40472096&amp;release_family=R2024b</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/7a5a7e7d-2a86-470f-9d3b-f444b4c6cf20/1.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/mlc-downloads/downloads/7a5a7e7d-2a86-470f-9d3b-f444b4c6cf20/7c47b33e-f491-45a1-a168-bb9d266a99b3/images/1677164520.jpg</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/7a5a7e7d-2a86-470f-9d3b-f444b4c6cf20/7c47b33e-f491-45a1-a168-bb9d266a99b3/releaseNotes</releaseNotesUrl>
+  <installationFolder>Simulink Models</installationFolder>
+</addOn>

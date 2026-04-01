@@ -1,0 +1,9 @@
+{
+  "SimulinkCodeImporterVersion": 1,
+  "LibraryFileName": "Hello",
+  "OutputFolder": "D:\\Applied-Robotics",
+  "CustomCode": {
+    "SourceFiles": ".\\Hello.py",
+    "GlobalVariableInterface": false
+  }
+}
