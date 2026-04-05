@@ -1,5 +1,5 @@
-#ifndef __RlUt5YazEZ0A5u4lfJgXaE_h__
-#define __RlUt5YazEZ0A5u4lfJgXaE_h__
+#ifndef __eZ8Q20pDV7O0CnikSSPLsF_h__
+#define __eZ8Q20pDV7O0CnikSSPLsF_h__
 
 /* Include files */
 #include "simstruc.h"
@@ -675,64 +675,64 @@ typedef struct tag_1HuK0MXPpfff5Kyc0VNHlF robotics_manip_internal_RigidBody;
 
 #endif                                 /* typedef_robotics_manip_internal_RigidBody */
 
-#ifndef struct_tag_39WUDiqWLcguFyzjiM0Q8D
-#define struct_tag_39WUDiqWLcguFyzjiM0Q8D
+#ifndef struct_tag_GazSuN40i2muEbxEMkPs7F
+#define struct_tag_GazSuN40i2muEbxEMkPs7F
 
-struct tag_39WUDiqWLcguFyzjiM0Q8D
+struct tag_GazSuN40i2muEbxEMkPs7F
 {
   boolean_T matlabCodegenIsDeleted;
   real_T NumBodies;
   robotics_manip_internal_RigidBody Base;
   real_T Gravity[3];
-  robotics_manip_internal_RigidBody *Bodies[5];
-  robotics_manip_internal_CollisionSet _pobj0[11];
-  rigidBodyJoint _pobj1[11];
-  robotics_manip_internal_RigidBody _pobj2[10];
+  robotics_manip_internal_RigidBody *Bodies[6];
+  robotics_manip_internal_CollisionSet _pobj0[13];
+  rigidBodyJoint _pobj1[13];
+  robotics_manip_internal_RigidBody _pobj2[12];
 };
 
-#endif                                 /* struct_tag_39WUDiqWLcguFyzjiM0Q8D */
+#endif                                 /* struct_tag_GazSuN40i2muEbxEMkPs7F */
 
 #ifndef typedef_robotics_manip_internal_RigidBodyTree
 #define typedef_robotics_manip_internal_RigidBodyTree
 
-typedef struct tag_39WUDiqWLcguFyzjiM0Q8D robotics_manip_internal_RigidBodyTree;
+typedef struct tag_GazSuN40i2muEbxEMkPs7F robotics_manip_internal_RigidBodyTree;
 
 #endif                                 /* typedef_robotics_manip_internal_RigidBodyTree */
 
-#ifndef struct_tag_wz6gQ4RlbUE90RNFVfcOLG
-#define struct_tag_wz6gQ4RlbUE90RNFVfcOLG
+#ifndef struct_tag_ElsrRCTz8mT6xsO7XtH7vD
+#define struct_tag_ElsrRCTz8mT6xsO7XtH7vD
 
-struct tag_wz6gQ4RlbUE90RNFVfcOLG
+struct tag_ElsrRCTz8mT6xsO7XtH7vD
 {
   boolean_T matlabCodegenIsDeleted;
   real_T NumBodies;
   robotics_manip_internal_RigidBody Base;
   b_robotics_manip_internal_FastVisualizationHelper FastVisualizationHelper;
-  robotics_manip_internal_RigidBody *Bodies[5];
+  robotics_manip_internal_RigidBody *Bodies[6];
   real_T NumNonFixedBodies;
   real_T PositionNumber;
   real_T VelocityNumber;
-  real_T PositionDoFMap[10];
-  real_T VelocityDoFMap[10];
-  robotics_manip_internal_RigidBody _pobj0[5];
-  robotics_manip_internal_CollisionSet _pobj1[6];
-  rigidBodyJoint _pobj2[6];
+  real_T PositionDoFMap[12];
+  real_T VelocityDoFMap[12];
+  robotics_manip_internal_RigidBody _pobj0[6];
+  robotics_manip_internal_CollisionSet _pobj1[7];
+  rigidBodyJoint _pobj2[7];
 };
 
-#endif                                 /* struct_tag_wz6gQ4RlbUE90RNFVfcOLG */
+#endif                                 /* struct_tag_ElsrRCTz8mT6xsO7XtH7vD */
 
 #ifndef typedef_robotics_manip_internal_RigidBodyTree_1
 #define typedef_robotics_manip_internal_RigidBodyTree_1
 
-typedef struct tag_wz6gQ4RlbUE90RNFVfcOLG
+typedef struct tag_ElsrRCTz8mT6xsO7XtH7vD
   robotics_manip_internal_RigidBodyTree_1;
 
 #endif                                 /* typedef_robotics_manip_internal_RigidBodyTree_1 */
 
-#ifndef struct_tag_Hn5J7DDqJCu5ZUjovdRv1
-#define struct_tag_Hn5J7DDqJCu5ZUjovdRv1
+#ifndef struct_tag_aOnb1AQ9YNnZDuX9CRosbG
+#define struct_tag_aOnb1AQ9YNnZDuX9CRosbG
 
-struct tag_Hn5J7DDqJCu5ZUjovdRv1
+struct tag_aOnb1AQ9YNnZDuX9CRosbG
 {
   boolean_T matlabCodegenIsDeleted;
   robotics_manip_internal_RigidBodyTree_1 *Robot;
@@ -746,19 +746,19 @@ struct tag_Hn5J7DDqJCu5ZUjovdRv1
   real_T KinematicModel;
 };
 
-#endif                                 /* struct_tag_Hn5J7DDqJCu5ZUjovdRv1 */
+#endif                                 /* struct_tag_aOnb1AQ9YNnZDuX9CRosbG */
 
 #ifndef typedef_robotics_manip_internal_IKExtraArgs
 #define typedef_robotics_manip_internal_IKExtraArgs
 
-typedef struct tag_Hn5J7DDqJCu5ZUjovdRv1 robotics_manip_internal_IKExtraArgs;
+typedef struct tag_aOnb1AQ9YNnZDuX9CRosbG robotics_manip_internal_IKExtraArgs;
 
 #endif                                 /* typedef_robotics_manip_internal_IKExtraArgs */
 
-#ifndef struct_tag_qpxbtZ88h6FV8jkTwLUV6F
-#define struct_tag_qpxbtZ88h6FV8jkTwLUV6F
+#ifndef struct_tag_vk0rAEFzM7x0VRFmB1iVUC
+#define struct_tag_vk0rAEFzM7x0VRFmB1iVUC
 
-struct tag_qpxbtZ88h6FV8jkTwLUV6F
+struct tag_vk0rAEFzM7x0VRFmB1iVUC
 {
   boolean_T matlabCodegenIsDeleted;
   char_T Name[18];
@@ -780,20 +780,20 @@ struct tag_qpxbtZ88h6FV8jkTwLUV6F
   robotics_core_internal_SystemTimeProvider TimeObjInternal;
 };
 
-#endif                                 /* struct_tag_qpxbtZ88h6FV8jkTwLUV6F */
+#endif                                 /* struct_tag_vk0rAEFzM7x0VRFmB1iVUC */
 
 #ifndef typedef_robotics_core_internal_ErrorDampedLevenbergMarquardt
 #define typedef_robotics_core_internal_ErrorDampedLevenbergMarquardt
 
-typedef struct tag_qpxbtZ88h6FV8jkTwLUV6F
+typedef struct tag_vk0rAEFzM7x0VRFmB1iVUC
   robotics_core_internal_ErrorDampedLevenbergMarquardt;
 
 #endif                                 /* typedef_robotics_core_internal_ErrorDampedLevenbergMarquardt */
 
-#ifndef struct_tag_6ZnDL3Z2BiXsXZDF1yBK1G
-#define struct_tag_6ZnDL3Z2BiXsXZDF1yBK1G
+#ifndef struct_tag_SGBpB5mK64M782EIGyq3R
+#define struct_tag_SGBpB5mK64M782EIGyq3R
 
-struct tag_6ZnDL3Z2BiXsXZDF1yBK1G
+struct tag_SGBpB5mK64M782EIGyq3R
 {
   boolean_T matlabCodegenIsDeleted;
   int32_T isInitialized;
@@ -803,26 +803,26 @@ struct tag_6ZnDL3Z2BiXsXZDF1yBK1G
   coder_array_real_T_2D Limits;
   robotics_manip_internal_RigidBodyTree_1 *RigidBodyTreeInternal;
   robotics_manip_internal_IKExtraArgs _pobj0;
-  rigidBodyJoint _pobj1[10];
-  robotics_manip_internal_RigidBody _pobj2[5];
-  robotics_manip_internal_CollisionSet _pobj3[11];
+  rigidBodyJoint _pobj1[12];
+  robotics_manip_internal_RigidBody _pobj2[6];
+  robotics_manip_internal_CollisionSet _pobj3[13];
   robotics_manip_internal_RigidBodyTree_1 _pobj4;
   robotics_core_internal_ErrorDampedLevenbergMarquardt _pobj5;
 };
 
-#endif                                 /* struct_tag_6ZnDL3Z2BiXsXZDF1yBK1G */
+#endif                                 /* struct_tag_SGBpB5mK64M782EIGyq3R */
 
 #ifndef typedef_inverseKinematics
 #define typedef_inverseKinematics
 
-typedef struct tag_6ZnDL3Z2BiXsXZDF1yBK1G inverseKinematics;
+typedef struct tag_SGBpB5mK64M782EIGyq3R inverseKinematics;
 
 #endif                                 /* typedef_inverseKinematics */
 
-#ifndef struct_tag_1YL3RkrbPHulLhripAHUMD
-#define struct_tag_1YL3RkrbPHulLhripAHUMD
+#ifndef struct_tag_1hE4jPjcQiSnV0QbihSQnB
+#define struct_tag_1hE4jPjcQiSnV0QbihSQnB
 
-struct tag_1YL3RkrbPHulLhripAHUMD
+struct tag_1hE4jPjcQiSnV0QbihSQnB
 {
   boolean_T matlabCodegenIsDeleted;
   int32_T isInitialized;
@@ -830,24 +830,24 @@ struct tag_1YL3RkrbPHulLhripAHUMD
   inverseKinematics IKInternal;
 };
 
-#endif                                 /* struct_tag_1YL3RkrbPHulLhripAHUMD */
+#endif                                 /* struct_tag_1hE4jPjcQiSnV0QbihSQnB */
 
 #ifndef typedef_robotics_slmanip_internal_block_IKBlock
 #define typedef_robotics_slmanip_internal_block_IKBlock
 
-typedef struct tag_1YL3RkrbPHulLhripAHUMD
+typedef struct tag_1hE4jPjcQiSnV0QbihSQnB
   robotics_slmanip_internal_block_IKBlock;
 
 #endif                                 /* typedef_robotics_slmanip_internal_block_IKBlock */
 
-#ifndef struct_tag_sVt44ZeZOk8t1edlQdXzFVC
-#define struct_tag_sVt44ZeZOk8t1edlQdXzFVC
+#ifndef struct_tag_sNn4ag7c45nI1bdx4I2q2xB
+#define struct_tag_sNn4ag7c45nI1bdx4I2q2xB
 
-struct tag_sVt44ZeZOk8t1edlQdXzFVC
+struct tag_sNn4ag7c45nI1bdx4I2q2xB
 {
   uint8_T Type;
   real_T NameLength;
-  uint8_T Name[16];
+  uint8_T Name[18];
   real_T VelocityNumber;
   real_T PositionNumber;
   real_T MotionSubspace[36];
@@ -858,14 +858,14 @@ struct tag_sVt44ZeZOk8t1edlQdXzFVC
   real_T ChildToJointTransform[16];
 };
 
-#endif                                 /* struct_tag_sVt44ZeZOk8t1edlQdXzFVC */
+#endif                                 /* struct_tag_sNn4ag7c45nI1bdx4I2q2xB */
 
-#ifndef typedef_sVt44ZeZOk8t1edlQdXzFVC
-#define typedef_sVt44ZeZOk8t1edlQdXzFVC
+#ifndef typedef_sNn4ag7c45nI1bdx4I2q2xB
+#define typedef_sNn4ag7c45nI1bdx4I2q2xB
 
-typedef struct tag_sVt44ZeZOk8t1edlQdXzFVC sVt44ZeZOk8t1edlQdXzFVC;
+typedef struct tag_sNn4ag7c45nI1bdx4I2q2xB sNn4ag7c45nI1bdx4I2q2xB;
 
-#endif                                 /* typedef_sVt44ZeZOk8t1edlQdXzFVC */
+#endif                                 /* typedef_sNn4ag7c45nI1bdx4I2q2xB */
 
 #ifndef struct_tag_smzGQHcQ1fZcSCW5rtLpn4F
 #define struct_tag_smzGQHcQ1fZcSCW5rtLpn4F
@@ -1810,74 +1810,75 @@ typedef struct tag_YcHb181yZEiUj1RqSxvRvH db_cell;
 
 #endif                                 /* typedef_db_cell */
 
-#ifndef struct_tag_sEslRWEyDhKePF3F4qPahrG
-#define struct_tag_sEslRWEyDhKePF3F4qPahrG
+#ifndef struct_tag_sHXK7gyJleGVnajF3sVPAL
+#define struct_tag_sHXK7gyJleGVnajF3sVPAL
 
-struct tag_sEslRWEyDhKePF3F4qPahrG
+struct tag_sHXK7gyJleGVnajF3sVPAL
 {
   real_T NameLength;
   uint8_T Name[12];
   real_T ParentIndex;
   real_T NumChildren;
-  real_T ChildrenIndices[5];
+  real_T ChildrenIndices[6];
   real_T Mass;
   real_T CenterOfMass[3];
   real_T Inertia[9];
   real_T SpatialInertia[36];
 };
 
-#endif                                 /* struct_tag_sEslRWEyDhKePF3F4qPahrG */
+#endif                                 /* struct_tag_sHXK7gyJleGVnajF3sVPAL */
 
-#ifndef typedef_sEslRWEyDhKePF3F4qPahrG
-#define typedef_sEslRWEyDhKePF3F4qPahrG
+#ifndef typedef_sHXK7gyJleGVnajF3sVPAL
+#define typedef_sHXK7gyJleGVnajF3sVPAL
 
-typedef struct tag_sEslRWEyDhKePF3F4qPahrG sEslRWEyDhKePF3F4qPahrG;
+typedef struct tag_sHXK7gyJleGVnajF3sVPAL sHXK7gyJleGVnajF3sVPAL;
 
-#endif                                 /* typedef_sEslRWEyDhKePF3F4qPahrG */
+#endif                                 /* typedef_sHXK7gyJleGVnajF3sVPAL */
 
-#ifndef struct_tag_6GtvjnWC2vurmhm4345n9D
-#define struct_tag_6GtvjnWC2vurmhm4345n9D
+#ifndef struct_tag_mlBlnrCOJZCkaZBoxrxhaG
+#define struct_tag_mlBlnrCOJZCkaZBoxrxhaG
 
-struct tag_6GtvjnWC2vurmhm4345n9D
+struct tag_mlBlnrCOJZCkaZBoxrxhaG
 {
-  sEslRWEyDhKePF3F4qPahrG f1;
-  sEslRWEyDhKePF3F4qPahrG f2;
-  sEslRWEyDhKePF3F4qPahrG f3;
-  sEslRWEyDhKePF3F4qPahrG f4;
-  sEslRWEyDhKePF3F4qPahrG f5;
-  sEslRWEyDhKePF3F4qPahrG f6;
+  sHXK7gyJleGVnajF3sVPAL f1;
+  sHXK7gyJleGVnajF3sVPAL f2;
+  sHXK7gyJleGVnajF3sVPAL f3;
+  sHXK7gyJleGVnajF3sVPAL f4;
+  sHXK7gyJleGVnajF3sVPAL f5;
+  sHXK7gyJleGVnajF3sVPAL f6;
+  sHXK7gyJleGVnajF3sVPAL f7;
 };
 
-#endif                                 /* struct_tag_6GtvjnWC2vurmhm4345n9D */
+#endif                                 /* struct_tag_mlBlnrCOJZCkaZBoxrxhaG */
 
-#ifndef typedef_s_6GtvjnWC2vurmhm4345n9D
-#define typedef_s_6GtvjnWC2vurmhm4345n9D
+#ifndef typedef_s_mlBlnrCOJZCkaZBoxrxhaG
+#define typedef_s_mlBlnrCOJZCkaZBoxrxhaG
 
-typedef struct tag_6GtvjnWC2vurmhm4345n9D s_6GtvjnWC2vurmhm4345n9D;
+typedef struct tag_mlBlnrCOJZCkaZBoxrxhaG s_mlBlnrCOJZCkaZBoxrxhaG;
 
-#endif                                 /* typedef_s_6GtvjnWC2vurmhm4345n9D */
+#endif                                 /* typedef_s_mlBlnrCOJZCkaZBoxrxhaG */
 
-#ifndef struct_tag_tTxyWc1g9KUeYiFHwBV3G
-#define struct_tag_tTxyWc1g9KUeYiFHwBV3G
+#ifndef struct_tag_IRvXI6Y5IWi95YqM81YyRB
+#define struct_tag_IRvXI6Y5IWi95YqM81YyRB
 
-struct tag_tTxyWc1g9KUeYiFHwBV3G
+struct tag_IRvXI6Y5IWi95YqM81YyRB
 {
-  s_6GtvjnWC2vurmhm4345n9D _data;
+  s_mlBlnrCOJZCkaZBoxrxhaG _data;
 };
 
-#endif                                 /* struct_tag_tTxyWc1g9KUeYiFHwBV3G */
+#endif                                 /* struct_tag_IRvXI6Y5IWi95YqM81YyRB */
 
-#ifndef typedef_s_tTxyWc1g9KUeYiFHwBV3G
-#define typedef_s_tTxyWc1g9KUeYiFHwBV3G
+#ifndef typedef_s_IRvXI6Y5IWi95YqM81YyRB
+#define typedef_s_IRvXI6Y5IWi95YqM81YyRB
 
-typedef struct tag_tTxyWc1g9KUeYiFHwBV3G s_tTxyWc1g9KUeYiFHwBV3G;
+typedef struct tag_IRvXI6Y5IWi95YqM81YyRB s_IRvXI6Y5IWi95YqM81YyRB;
 
-#endif                                 /* typedef_s_tTxyWc1g9KUeYiFHwBV3G */
+#endif                                 /* typedef_s_IRvXI6Y5IWi95YqM81YyRB */
 
-#ifndef struct_tag_ByA2ZpG2r6xBudg1Pfo1CG
-#define struct_tag_ByA2ZpG2r6xBudg1Pfo1CG
+#ifndef struct_tag_hvNVT0C6CDQOmAJ9GMzDKF
+#define struct_tag_hvNVT0C6CDQOmAJ9GMzDKF
 
-struct tag_ByA2ZpG2r6xBudg1Pfo1CG
+struct tag_hvNVT0C6CDQOmAJ9GMzDKF
 {
   real_T NumBodies;
   real_T MaxNumBodies;
@@ -1885,24 +1886,24 @@ struct tag_ByA2ZpG2r6xBudg1Pfo1CG
   real_T NumNonFixedBodies;
   real_T PositionNumber;
   real_T VelocityNumber;
-  real_T PositionDoFMap[10];
-  real_T VelocityDoFMap[10];
+  real_T PositionDoFMap[12];
+  real_T VelocityDoFMap[12];
   real_T MaxNameLength;
   real_T MaxJointPositionNumber;
   uint8_T DataFormat;
   real_T JointPositionLimits[8];
-  s_tTxyWc1g9KUeYiFHwBV3G Bodies;
-  sVt44ZeZOk8t1edlQdXzFVC Joints[6];
+  s_IRvXI6Y5IWi95YqM81YyRB Bodies;
+  sNn4ag7c45nI1bdx4I2q2xB Joints[7];
 };
 
-#endif                                 /* struct_tag_ByA2ZpG2r6xBudg1Pfo1CG */
+#endif                                 /* struct_tag_hvNVT0C6CDQOmAJ9GMzDKF */
 
-#ifndef typedef_s_ByA2ZpG2r6xBudg1Pfo1CG
-#define typedef_s_ByA2ZpG2r6xBudg1Pfo1CG
+#ifndef typedef_s_hvNVT0C6CDQOmAJ9GMzDKF
+#define typedef_s_hvNVT0C6CDQOmAJ9GMzDKF
 
-typedef struct tag_ByA2ZpG2r6xBudg1Pfo1CG s_ByA2ZpG2r6xBudg1Pfo1CG;
+typedef struct tag_hvNVT0C6CDQOmAJ9GMzDKF s_hvNVT0C6CDQOmAJ9GMzDKF;
 
-#endif                                 /* typedef_s_ByA2ZpG2r6xBudg1Pfo1CG */
+#endif                                 /* typedef_s_hvNVT0C6CDQOmAJ9GMzDKF */
 
 #ifndef struct_tag_3XNHEjN80L82GjD0YEG5IH
 #define struct_tag_3XNHEjN80L82GjD0YEG5IH
@@ -2602,8 +2603,8 @@ typedef int32_T robotics_core_internal_NLPSolverExitFlags;
 #define c_robotics_core_internal_NLPSolverExitFlags_ChangeInErrorBelowMi (5)
 #endif                                 /* robotics_core_internal_NLPSolverExitFlags_constants */
 
-#ifndef typedef_InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
-#define typedef_InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+#ifndef typedef_InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
+#define typedef_InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
 
 typedef struct {
   SimStruct *S;
@@ -2627,9 +2628,9 @@ typedef struct {
   real_T (*u2)[4];
   real_T (*b_y0)[4];
   ikblock_info_bus *b_y1;
-} InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE;
+} InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF;
 
-#endif                                 /* typedef_InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE */
+#endif                                 /* typedef_InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF */
 
 /* Named Constants */
 
@@ -2640,7 +2641,7 @@ typedef struct {
 /* Function Declarations */
 
 /* Function Definitions */
-extern void method_dispatcher_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S, int_T method,
+extern void method_dispatcher_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S, int_T method,
   void* data);
 
 #endif

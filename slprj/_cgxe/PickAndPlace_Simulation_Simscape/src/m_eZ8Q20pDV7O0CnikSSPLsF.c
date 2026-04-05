@@ -1,7 +1,7 @@
 /* Include files */
 
 #include "modelInterface.h"
-#include "m_RlUt5YazEZ0A5u4lfJgXaE.h"
+#include "m_eZ8Q20pDV7O0CnikSSPLsF.h"
 #include <emmintrin.h>
 #include <string.h>
 #include "mwmathutil.h"
@@ -1779,24 +1779,8 @@ static emlrtBCInfo h_emlrtBCI = { 1,   /* iFirst */
   0                                    /* checkKind */
 };
 
-static emlrtRTEInfo b_emlrtRTEI = { 1433,/* lineNo */
-  21,                                  /* colNo */
-  "RigidBodyTree",                     /* fName */
-  "E:\\matlab2024b\\toolbox\\robotics\\robotmanip\\+robotics\\+manip\\+internal\\RigidBodyTree.m"/* pName */
-};
-
 static emlrtBCInfo i_emlrtBCI = { 0,   /* iFirst */
-  4,                                   /* iLast */
-  1434,                                /* lineNo */
-  38,                                  /* colNo */
-  "",                                  /* aName */
-  "RigidBodyTree",                     /* fName */
-  "E:\\matlab2024b\\toolbox\\robotics\\robotmanip\\+robotics\\+manip\\+internal\\RigidBodyTree.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtBCInfo j_emlrtBCI = { 0,   /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   581,                                 /* lineNo */
   45,                                  /* colNo */
   "",                                  /* aName */
@@ -1810,6 +1794,22 @@ static emlrtDCInfo i_emlrtDCI = { 581, /* lineNo */
   "RigidBodyTree",                     /* fName */
   "E:\\matlab2024b\\toolbox\\robotics\\robotmanip\\+robotics\\+manip\\+internal\\RigidBodyTree.m",/* pName */
   1                                    /* checkKind */
+};
+
+static emlrtRTEInfo b_emlrtRTEI = { 1433,/* lineNo */
+  21,                                  /* colNo */
+  "RigidBodyTree",                     /* fName */
+  "E:\\matlab2024b\\toolbox\\robotics\\robotmanip\\+robotics\\+manip\\+internal\\RigidBodyTree.m"/* pName */
+};
+
+static emlrtBCInfo j_emlrtBCI = { 0,   /* iFirst */
+  5,                                   /* iLast */
+  1434,                                /* lineNo */
+  38,                                  /* colNo */
+  "",                                  /* aName */
+  "RigidBodyTree",                     /* fName */
+  "E:\\matlab2024b\\toolbox\\robotics\\robotmanip\\+robotics\\+manip\\+internal\\RigidBodyTree.m",/* pName */
+  0                                    /* checkKind */
 };
 
 static emlrtRTEInfo c_emlrtRTEI = { 286,/* lineNo */
@@ -1853,7 +1853,7 @@ static emlrtDCInfo k_emlrtDCI = { 273, /* lineNo */
 };
 
 static emlrtBCInfo m_emlrtBCI = { 1,   /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   273,                                 /* lineNo */
   36,                                  /* colNo */
   "",                                  /* aName */
@@ -1870,7 +1870,7 @@ static emlrtDCInfo l_emlrtDCI = { 285, /* lineNo */
 };
 
 static emlrtBCInfo n_emlrtBCI = { 1,   /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   285,                                 /* lineNo */
   36,                                  /* colNo */
   "",                                  /* aName */
@@ -1887,7 +1887,7 @@ static emlrtDCInfo m_emlrtDCI = { 286, /* lineNo */
 };
 
 static emlrtBCInfo o_emlrtBCI = { 1,   /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   286,                                 /* lineNo */
   36,                                  /* colNo */
   "",                                  /* aName */
@@ -1904,7 +1904,7 @@ static emlrtDCInfo n_emlrtDCI = { 288, /* lineNo */
 };
 
 static emlrtBCInfo p_emlrtBCI = { 1,   /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   288,                                 /* lineNo */
   36,                                  /* colNo */
   "",                                  /* aName */
@@ -1921,7 +1921,7 @@ static emlrtDCInfo o_emlrtDCI = { 289, /* lineNo */
 };
 
 static emlrtBCInfo q_emlrtBCI = { 1,   /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   289,                                 /* lineNo */
   36,                                  /* colNo */
   "",                                  /* aName */
@@ -1931,7 +1931,7 @@ static emlrtBCInfo q_emlrtBCI = { 1,   /* iFirst */
 };
 
 static emlrtBCInfo r_emlrtBCI = { 0,   /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   264,                                 /* lineNo */
   24,                                  /* colNo */
   "",                                  /* aName */
@@ -1941,7 +1941,7 @@ static emlrtBCInfo r_emlrtBCI = { 0,   /* iFirst */
 };
 
 static emlrtBCInfo s_emlrtBCI = { 0,   /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   269,                                 /* lineNo */
   37,                                  /* colNo */
   "",                                  /* aName */
@@ -1957,7 +1957,7 @@ static emlrtRTEInfo d_emlrtRTEI = { 1451,/* lineNo */
 };
 
 static emlrtBCInfo t_emlrtBCI = { 0,   /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   1452,                                /* lineNo */
   38,                                  /* colNo */
   "",                                  /* aName */
@@ -2178,7 +2178,7 @@ static emlrtDCInfo bb_emlrtDCI = { 523,/* lineNo */
 };
 
 static emlrtBCInfo fb_emlrtBCI = { 0,  /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   528,                                 /* lineNo */
   58,                                  /* colNo */
   "",                                  /* aName */
@@ -2307,7 +2307,7 @@ static emlrtECInfo j_emlrtECI = { -1,  /* nDims */
 };
 
 static emlrtBCInfo lb_emlrtBCI = { 0,  /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   2332,                                /* lineNo */
   35,                                  /* colNo */
   "",                                  /* aName */
@@ -2423,7 +2423,7 @@ static emlrtDCInfo ob_emlrtDCI = { 326,/* lineNo */
 };
 
 static emlrtBCInfo rb_emlrtBCI = { 0,  /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   2052,                                /* lineNo */
   35,                                  /* colNo */
   "",                                  /* aName */
@@ -2450,7 +2450,7 @@ static emlrtBCInfo sb_emlrtBCI = { -1, /* iFirst */
 };
 
 static emlrtBCInfo tb_emlrtBCI = { 0,  /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   2057,                                /* lineNo */
   39,                                  /* colNo */
   "",                                  /* aName */
@@ -2467,7 +2467,7 @@ static emlrtDCInfo qb_emlrtDCI = { 2057,/* lineNo */
 };
 
 static emlrtBCInfo ub_emlrtBCI = { 1,  /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   757,                                 /* lineNo */
   46,                                  /* colNo */
   "",                                  /* aName */
@@ -2555,7 +2555,7 @@ static emlrtDCInfo wb_emlrtDCI = { 1932,/* lineNo */
 };
 
 static emlrtBCInfo yb_emlrtBCI = { 1,  /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   1932,                                /* lineNo */
   51,                                  /* colNo */
   "",                                  /* aName */
@@ -2606,7 +2606,7 @@ static emlrtDCInfo ac_emlrtDCI = { 1935,/* lineNo */
 };
 
 static emlrtBCInfo cc_emlrtBCI = { 1,  /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   1935,                                /* lineNo */
   55,                                  /* colNo */
   "",                                  /* aName */
@@ -2677,7 +2677,7 @@ static emlrtBCInfo gc_emlrtBCI = { -1, /* iFirst */
 };
 
 static emlrtBCInfo hc_emlrtBCI = { 0,  /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   1890,                                /* lineNo */
   40,                                  /* colNo */
   "",                                  /* aName */
@@ -2744,7 +2744,7 @@ static emlrtBCInfo mc_emlrtBCI = { -1, /* iFirst */
 };
 
 static emlrtBCInfo nc_emlrtBCI = { 0,  /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   1903,                                /* lineNo */
   50,                                  /* colNo */
   "",                                  /* aName */
@@ -2771,7 +2771,7 @@ static emlrtBCInfo oc_emlrtBCI = { -1, /* iFirst */
 };
 
 static emlrtBCInfo pc_emlrtBCI = { 0,  /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   1908,                                /* lineNo */
   47,                                  /* colNo */
   "",                                  /* aName */
@@ -2842,7 +2842,7 @@ static emlrtDCInfo hc_emlrtDCI = { 2029,/* lineNo */
 };
 
 static emlrtBCInfo uc_emlrtBCI = { 0,  /* iFirst */
-  4,                                   /* iLast */
+  5,                                   /* iLast */
   2033,                                /* lineNo */
   35,                                  /* colNo */
   "",                                  /* aName */
@@ -2982,7 +2982,7 @@ static emlrtRTEInfo h_emlrtRTEI = { 667,/* lineNo */
 };
 
 static emlrtBCInfo hd_emlrtBCI = { 1,  /* iFirst */
-  5,                                   /* iLast */
+  6,                                   /* iLast */
   668,                                 /* lineNo */
   40,                                  /* colNo */
   "",                                  /* aName */
@@ -3335,31 +3335,31 @@ static emlrtRSInfo fm_emlrtRSI = { 53, /* lineNo */
 };
 
 /* Function Declarations */
-static void cgxe_mdl_start(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance);
-static void cgxe_mdl_initialize(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_start(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance);
+static void cgxe_mdl_initialize(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance);
-static void cgxe_mdl_outputs(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_outputs(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance);
-static void cgxe_mdl_update(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_update(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance);
-static void cgxe_mdl_derivative(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_derivative(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance);
-static void cgxe_mdl_enable(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_enable(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance);
-static void cgxe_mdl_disable(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_disable(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance);
-static void cgxe_mdl_terminate(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_terminate(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance);
 static void mw__internal__system__init__fcn
-  (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance);
+  (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance);
 static void mw__internal__system__terminate__fcn
-  (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const emlrtStack *sp);
-static void mw__internal__call__setup(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+  (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const emlrtStack *sp);
+static void mw__internal__call__setup(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp);
-static void IKBlock_setupImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void IKBlock_setupImpl(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, robotics_slmanip_internal_block_IKBlock
   *obj);
-static void b_rand(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void b_rand(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                    emlrtStack *sp, real_T r[5]);
 static boolean_T is_valid_state(uint32_T mt[625]);
 static robotics_manip_internal_RigidBody *RigidBody_RigidBody(const emlrtStack
@@ -3390,18 +3390,24 @@ static robotics_manip_internal_RigidBody *e_RigidBody_RigidBody(const emlrtStack
 static robotics_manip_internal_RigidBody *f_RigidBody_RigidBody(const emlrtStack
   *sp, robotics_manip_internal_RigidBody *obj,
   robotics_manip_internal_CollisionSet *iobj_0, rigidBodyJoint *iobj_1);
+static robotics_manip_internal_RigidBody *g_RigidBody_RigidBody(const emlrtStack
+  *sp, robotics_manip_internal_RigidBody *obj,
+  robotics_manip_internal_CollisionSet *iobj_0, rigidBodyJoint *iobj_1);
 static rigidBodyJoint *rigidBodyJoint_rigidBodyJoint(const emlrtStack *sp,
   rigidBodyJoint *obj, char_T jname_data[], int32_T jname_size[2]);
 static void validateattributes(const emlrtStack *sp, int32_T a_size[2]);
 static void inverseKinematics_set_RigidBodyTree
-  (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const emlrtStack *sp,
+  (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const emlrtStack *sp,
    inverseKinematics *obj, robotics_manip_internal_RigidBodyTree *rigidbodytree,
    rigidBodyJoint *iobj_0, robotics_manip_internal_RigidBody *iobj_1,
    robotics_manip_internal_CollisionSet *iobj_2,
    robotics_manip_internal_RigidBodyTree_1 *iobj_3);
 static robotics_manip_internal_RigidBodyTree_1 *RigidBodyTree_RigidBodyTree
-  (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const emlrtStack *sp,
+  (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const emlrtStack *sp,
    robotics_manip_internal_RigidBodyTree_1 *obj);
+static void RigidBodyTree_set_BaseName(const emlrtStack *sp,
+  robotics_manip_internal_RigidBodyTree_1 *obj, char_T baseName_data[], int32_T
+  baseName_size[2]);
 static void b_validateattributes(const emlrtStack *sp, int32_T a_size[2]);
 static boolean_T f_strcmp(char_T a_data[], int32_T a_size[2], char_T b_data[],
   int32_T b_size[2]);
@@ -3428,9 +3434,9 @@ static void get_match(const emlrtStack *sp, char_T str_data[], int32_T str_size
                       *nmatched);
 static void assertSupportedString(const emlrtStack *sp, char_T s);
 static void warning(const emlrtStack *sp);
-static void mw__internal__call__reset(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void mw__internal__call__reset(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp);
-static void mw__internal__call__step(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void mw__internal__call__step(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, real_T b_u0[16], real_T b_u1[6], real_T
   b_u2[4], real_T c_y0[4], real_T *y1_Iterations, real_T *y1_PoseErrorNorm,
   uint16_T *y1_ExitFlag, uint8_T *y1_Status);
@@ -3440,7 +3446,7 @@ static void rigidBodyJoint_get_PositionLimits(const emlrtStack *sp,
   rigidBodyJoint *obj, real_T lims_data[], int32_T lims_size[2]);
 static void RigidBodyTree_get_JointPositionLimits(const emlrtStack *sp,
   robotics_manip_internal_RigidBodyTree_1 *obj, coder_array_real_T_2D *limits);
-static void inverseKinematics_stepImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void inverseKinematics_stepImpl(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, inverseKinematics *obj, real_T tform[16],
   real_T weights[6], real_T initialGuess[4], real_T QSol[4], real_T
   *solutionInfo_Iterations, real_T *solutionInfo_PoseErrorNorm, real_T
@@ -3453,7 +3459,7 @@ static void b_warning(const emlrtStack *sp);
 static void c_warning(const emlrtStack *sp, char_T varargin_1[14]);
 static void d_warning(const emlrtStack *sp);
 static void c_validateattributes(const emlrtStack *sp, real_T a[6]);
-static void inverseKinematics_solve(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void inverseKinematics_solve(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, inverseKinematics *obj, real_T
   initialGuess[4], real_T QSol[4], real_T *solutionInfo_Iterations, real_T
   *solutionInfo_NumRandomRestarts, real_T *solutionInfo_PoseErrorNorm, real_T
@@ -3527,21 +3533,21 @@ static real_T b_function_handle_parenReference(real_T varargin_1, real_T
   varargin_2);
 static void expand_min(const emlrtStack *sp, coder_array_real_T *a, real_T b_b[4],
   real_T c[4]);
-static void IKHelpers_randomConfig(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void IKHelpers_randomConfig(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, robotics_manip_internal_IKExtraArgs
   *args, real_T rc_data[], int32_T rc_size[1]);
-static void randn(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void randn(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                   emlrtStack *sp, real_T r[4]);
-static void c_rand(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void c_rand(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                    emlrtStack *sp, real_T r[3]);
 static boolean_T vectorAny(boolean_T x_data[], int32_T x_size[1]);
-static void b_randn(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void b_randn(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                     emlrtStack *sp, real_T r[3]);
-static void d_rand(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void d_rand(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                    emlrtStack *sp, real_T varargin_1, real_T r_data[], int32_T
                    r_size[1]);
 static boolean_T any(const emlrtStack *sp, boolean_T x_data[], int32_T x_size[1]);
-static void c_randn(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void c_randn(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                     emlrtStack *sp, real_T varargin_1[2], real_T r_data[],
                     int32_T r_size[1]);
 static void f_warning(const emlrtStack *sp);
@@ -3643,11 +3649,11 @@ static void array_boolean_T_Destructor(coder_array_boolean_T *coderArray);
 static int32_T div_nzp_s32(int32_T numerator, int32_T denominator);
 static int32_T div_s32(const emlrtStack *sp, int32_T numerator, int32_T
   denominator);
-static void init_simulink_io_address(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void init_simulink_io_address(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance);
 
 /* Function Definitions */
-static void cgxe_mdl_start(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance)
+static void cgxe_mdl_start(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance)
 {
   emlrtStack st = { NULL,              /* site */
     NULL,                              /* tls */
@@ -3663,7 +3669,7 @@ static void cgxe_mdl_start(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance
   cgxertRestoreGcb(moduleInstance->S, -1, -1);
 }
 
-static void cgxe_mdl_initialize(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_initialize(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance)
 {
   emlrtStack st = { NULL,              /* site */
@@ -3679,7 +3685,7 @@ static void cgxe_mdl_initialize(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   cgxertRestoreGcb(moduleInstance->S, -1, -1);
 }
 
-static void cgxe_mdl_outputs(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_outputs(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance)
 {
   emlrtStack st = { NULL,              /* site */
@@ -3697,31 +3703,31 @@ static void cgxe_mdl_outputs(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   cgxertRestoreGcb(moduleInstance->S, -1, -1);
 }
 
-static void cgxe_mdl_update(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_update(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance)
 {
   (void)moduleInstance;
 }
 
-static void cgxe_mdl_derivative(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_derivative(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance)
 {
   (void)moduleInstance;
 }
 
-static void cgxe_mdl_enable(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_enable(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance)
 {
   (void)moduleInstance;
 }
 
-static void cgxe_mdl_disable(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_disable(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance)
 {
   (void)moduleInstance;
 }
 
-static void cgxe_mdl_terminate(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void cgxe_mdl_terminate(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance)
 {
   emlrtStack st = { NULL,              /* site */
@@ -3736,7 +3742,7 @@ static void cgxe_mdl_terminate(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
 }
 
 static void mw__internal__system__init__fcn
-  (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance)
+  (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance)
 {
   static uint32_T uv[625] = { 5489U, 1301868182U, 2938499221U, 2950281878U,
     1875628136U, 751856242U, 944701696U, 2243192071U, 694061057U, 219885934U,
@@ -3850,30 +3856,30 @@ static void mw__internal__system__init__fcn
     moduleInstance->c_state[i] = uv[i];
   }
 
-  for (i = 0; i < 6; i++) {
+  for (i = 0; i < 7; i++) {
     moduleInstance->sysobj.IKInternal._pobj4._pobj1[i].matlabCodegenIsDeleted =
       true;
   }
 
-  for (i = 0; i < 11; i++) {
+  for (i = 0; i < 13; i++) {
     moduleInstance->sysobj.IKInternal._pobj3[i].matlabCodegenIsDeleted = true;
   }
 
-  for (i = 0; i < 11; i++) {
+  for (i = 0; i < 13; i++) {
     moduleInstance->sysobj.TreeInternal._pobj0[i].matlabCodegenIsDeleted = true;
   }
 
-  for (i = 0; i < 5; i++) {
+  for (i = 0; i < 6; i++) {
     moduleInstance->sysobj.IKInternal._pobj4._pobj0[i].matlabCodegenIsDeleted =
       true;
   }
 
   moduleInstance->sysobj.IKInternal._pobj4.Base.matlabCodegenIsDeleted = true;
-  for (i = 0; i < 5; i++) {
+  for (i = 0; i < 6; i++) {
     moduleInstance->sysobj.IKInternal._pobj2[i].matlabCodegenIsDeleted = true;
   }
 
-  for (i = 0; i < 10; i++) {
+  for (i = 0; i < 12; i++) {
     moduleInstance->sysobj.TreeInternal._pobj2[i].matlabCodegenIsDeleted = true;
   }
 
@@ -3909,7 +3915,7 @@ static void mw__internal__system__init__fcn
 }
 
 static void mw__internal__system__terminate__fcn
-  (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const emlrtStack *sp)
+  (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const emlrtStack *sp)
 {
   emlrtStack b_st;
   emlrtStack c_st;
@@ -3960,7 +3966,7 @@ static void mw__internal__system__terminate__fcn
     moduleInstance->sysobj.TreeInternal.Base.matlabCodegenIsDeleted = true;
   }
 
-  for (i = 0; i < 10; i++) {
+  for (i = 0; i < 12; i++) {
     st.site = &cl_emlrtRSI;
     obj = &moduleInstance->sysobj.TreeInternal._pobj2[i];
     if (!obj->matlabCodegenIsDeleted) {
@@ -3968,7 +3974,7 @@ static void mw__internal__system__terminate__fcn
     }
   }
 
-  for (i = 0; i < 5; i++) {
+  for (i = 0; i < 6; i++) {
     st.site = &cl_emlrtRSI;
     obj = &moduleInstance->sysobj.IKInternal._pobj2[i];
     if (!obj->matlabCodegenIsDeleted) {
@@ -3981,7 +3987,7 @@ static void mw__internal__system__terminate__fcn
     moduleInstance->sysobj.IKInternal._pobj4.Base.matlabCodegenIsDeleted = true;
   }
 
-  for (i = 0; i < 5; i++) {
+  for (i = 0; i < 6; i++) {
     st.site = &cl_emlrtRSI;
     obj = &moduleInstance->sysobj.IKInternal._pobj4._pobj0[i];
     if (!obj->matlabCodegenIsDeleted) {
@@ -3989,26 +3995,26 @@ static void mw__internal__system__terminate__fcn
     }
   }
 
-  for (i = 0; i < 11; i++) {
+  for (i = 0; i < 13; i++) {
     st.site = &cl_emlrtRSI;
     handle_matlabCodegenDestructor(&st,
       &moduleInstance->sysobj.TreeInternal._pobj0[i]);
   }
 
-  for (i = 0; i < 11; i++) {
+  for (i = 0; i < 13; i++) {
     st.site = &cl_emlrtRSI;
     handle_matlabCodegenDestructor(&st,
       &moduleInstance->sysobj.IKInternal._pobj3[i]);
   }
 
-  for (i = 0; i < 6; i++) {
+  for (i = 0; i < 7; i++) {
     st.site = &cl_emlrtRSI;
     handle_matlabCodegenDestructor(&st,
       &moduleInstance->sysobj.IKInternal._pobj4._pobj1[i]);
   }
 }
 
-static void mw__internal__call__setup(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void mw__internal__call__setup(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp)
 {
   static const int32_T iv[2] = { 1, 51 };
@@ -4087,7 +4093,7 @@ static void mw__internal__call__setup(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   IKBlock_setupImpl(moduleInstance, &b_st, &moduleInstance->sysobj);
 }
 
-static void IKBlock_setupImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void IKBlock_setupImpl(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, robotics_slmanip_internal_block_IKBlock
   *obj)
 {
@@ -4104,9 +4110,11 @@ static void IKBlock_setupImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
 
   static char_T cv4[10] = { 'd', 'u', 'm', 'm', 'y', 'b', 'o', 'd', 'y', '5' };
 
-  static char_T cv5[5] = { 'w', 'o', 'r', 'l', 'd' };
+  static char_T cv5[10] = { 'd', 'u', 'm', 'm', 'y', 'b', 'o', 'd', 'y', '6' };
 
-  static char_T cv6[4] = { '_', 'j', 'n', 't' };
+  static char_T cv6[5] = { 'w', 'o', 'r', 'l', 'd' };
+
+  static char_T cv7[4] = { '_', 'j', 'n', 't' };
 
   __m128d r;
   emlrtStack b_st;
@@ -4173,7 +4181,7 @@ static void IKBlock_setupImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
     emlrtDynamicBoundsCheckR2012b(ret, 1, 62, &b_emlrtBCI, &d_st);
   }
 
-  obj->TreeInternal.NumBodies = 5.0;
+  obj->TreeInternal.NumBodies = 6.0;
   b_st.site = &u_emlrtRSI;
   c_st.site = &x_emlrtRSI;
   obj->TreeInternal.Bodies[0] = RigidBody_RigidBody(&c_st,
@@ -4195,31 +4203,40 @@ static void IKBlock_setupImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   obj->TreeInternal.Bodies[4] = RigidBody_RigidBody(&c_st,
     &obj->TreeInternal._pobj2[4], cv4, &obj->TreeInternal._pobj0[4],
     &obj->TreeInternal._pobj1[4]);
+  c_st.site = &x_emlrtRSI;
+  obj->TreeInternal.Bodies[5] = RigidBody_RigidBody(&c_st,
+    &obj->TreeInternal._pobj2[5], cv5, &obj->TreeInternal._pobj0[5],
+    &obj->TreeInternal._pobj1[5]);
   b_st.site = &v_emlrtRSI;
   obj->TreeInternal.Bodies[0] = b_RigidBody_RigidBody(&b_st,
-    &obj->TreeInternal._pobj2[5], &obj->TreeInternal._pobj0[5],
-    &obj->TreeInternal._pobj1[5]);
+    &obj->TreeInternal._pobj2[6], &obj->TreeInternal._pobj0[6],
+    &obj->TreeInternal._pobj1[6]);
   obj->TreeInternal.Bodies[0]->Index = 1.0;
   b_st.site = &v_emlrtRSI;
   obj->TreeInternal.Bodies[1] = c_RigidBody_RigidBody(&b_st,
-    &obj->TreeInternal._pobj2[6], &obj->TreeInternal._pobj0[6],
-    &obj->TreeInternal._pobj1[6]);
+    &obj->TreeInternal._pobj2[7], &obj->TreeInternal._pobj0[7],
+    &obj->TreeInternal._pobj1[7]);
   obj->TreeInternal.Bodies[1]->Index = 2.0;
   b_st.site = &v_emlrtRSI;
   obj->TreeInternal.Bodies[2] = d_RigidBody_RigidBody(&b_st,
-    &obj->TreeInternal._pobj2[7], &obj->TreeInternal._pobj0[7],
-    &obj->TreeInternal._pobj1[7]);
+    &obj->TreeInternal._pobj2[8], &obj->TreeInternal._pobj0[8],
+    &obj->TreeInternal._pobj1[8]);
   obj->TreeInternal.Bodies[2]->Index = 3.0;
   b_st.site = &v_emlrtRSI;
   obj->TreeInternal.Bodies[3] = e_RigidBody_RigidBody(&b_st,
-    &obj->TreeInternal._pobj2[8], &obj->TreeInternal._pobj0[8],
-    &obj->TreeInternal._pobj1[8]);
+    &obj->TreeInternal._pobj2[9], &obj->TreeInternal._pobj0[9],
+    &obj->TreeInternal._pobj1[9]);
   obj->TreeInternal.Bodies[3]->Index = 4.0;
   b_st.site = &v_emlrtRSI;
   obj->TreeInternal.Bodies[4] = f_RigidBody_RigidBody(&b_st,
-    &obj->TreeInternal._pobj2[9], &obj->TreeInternal._pobj0[9],
-    &obj->TreeInternal._pobj1[9]);
+    &obj->TreeInternal._pobj2[10], &obj->TreeInternal._pobj0[10],
+    &obj->TreeInternal._pobj1[10]);
   obj->TreeInternal.Bodies[4]->Index = 5.0;
+  b_st.site = &v_emlrtRSI;
+  obj->TreeInternal.Bodies[5] = g_RigidBody_RigidBody(&b_st,
+    &obj->TreeInternal._pobj2[11], &obj->TreeInternal._pobj0[11],
+    &obj->TreeInternal._pobj1[11]);
+  obj->TreeInternal.Bodies[5]->Index = 6.0;
   b_st.site = &t_emlrtRSI;
   for (i = 0; i < 3; i++) {
     obj->TreeInternal.Gravity[i] = 0.0;
@@ -4245,7 +4262,7 @@ static void IKBlock_setupImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
 
   emlrtSubAssignSizeCheckR2012b(&iv[0], 2, &iv1[0], 2, &emlrtECI, &c_st);
   for (i = 0; i < 5; i++) {
-    s_Vector[i] = cv5[i];
+    s_Vector[i] = cv6[i];
   }
 
   obj->TreeInternal.Base.NameInternal.Length = 5.0;
@@ -4287,15 +4304,15 @@ static void IKBlock_setupImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   }
 
   for (i = 0; i < 4; i++) {
-    s_Vector_data[i + ret] = cv6[i];
+    s_Vector_data[i + ret] = cv7[i];
   }
 
   c_st.site = &sb_emlrtRSI;
   obj->TreeInternal.Base.JointInternal = rigidBodyJoint_rigidBodyJoint(&c_st,
-    &obj->TreeInternal._pobj1[10], s_Vector_data, s_Vector_size);
+    &obj->TreeInternal._pobj1[12], s_Vector_data, s_Vector_size);
   c_st.site = &pb_emlrtRSI;
   obj->TreeInternal.Base.CollisionsInternal = CollisionSet_CollisionSet(&c_st,
-    &obj->TreeInternal._pobj0[10], 0.0);
+    &obj->TreeInternal._pobj0[12], 0.0);
   obj->TreeInternal.Base.matlabCodegenIsDeleted = false;
   obj->TreeInternal.Base.Index = 0.0;
   obj->TreeInternal.matlabCodegenIsDeleted = false;
@@ -4395,7 +4412,7 @@ static void IKBlock_setupImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   obj->IKInternal.matlabCodegenIsDeleted = false;
 }
 
-static void b_rand(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void b_rand(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                    emlrtStack *sp, real_T r[5])
 {
   emlrtStack b_st;
@@ -7282,6 +7299,412 @@ static robotics_manip_internal_RigidBody *f_RigidBody_RigidBody(const emlrtStack
   return b_obj;
 }
 
+static robotics_manip_internal_RigidBody *g_RigidBody_RigidBody(const emlrtStack
+  *sp, robotics_manip_internal_RigidBody *obj,
+  robotics_manip_internal_CollisionSet *iobj_0, rigidBodyJoint *iobj_1)
+{
+  static char_T cv1[18] = { 'e', 'e', '_', 't', 'o', '_', 's', 'o', 'f', 't',
+    '_', 'g', 'r', 'i', 'p', 'p', 'e', 'r' };
+
+  static char_T cv[12] = { 's', 'o', 'f', 't', '_', 'g', 'r', 'i', 'p', 'p', 'e',
+    'r' };
+
+  static char_T vec[5] = { 'f', 'i', 'x', 'e', 'd' };
+
+  static int8_T iv2[16] = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1 };
+
+  static int8_T iv6[7] = { 1, 0, 0, 0, 0, 0, 0 };
+
+  static int8_T iv3[6] = { 0, 0, 1, 0, 0, 0 };
+
+  static int8_T iv4[6] = { 0, 0, 0, 0, 0, 1 };
+
+  static int8_T iv5[3] = { 0, 0, 1 };
+
+  emlrtStack b_st;
+  emlrtStack c_st;
+  emlrtStack st;
+  robotics_manip_internal_RigidBody *b_obj;
+  real_T msubspace_data[36];
+  real_T poslim_data[14];
+  real_T s_Length;
+  int32_T iv[2];
+  int32_T iv1[2];
+  int32_T msubspace_size[2];
+  int32_T poslim_size[2];
+  int32_T s_Vector_size[2];
+  int32_T switch_expression_size[2];
+  int32_T homepos_size_idx_1;
+  int32_T i;
+  int32_T ibmat;
+  int32_T jcol;
+  char_T s_Vector[200];
+  char_T switch_expression_data[200];
+  int8_T b_I[36];
+  int8_T homepos_data[7];
+  int8_T b_b[6];
+  st.prev = sp;
+  st.tls = sp->tls;
+  b_st.prev = &st;
+  b_st.tls = st.tls;
+  c_st.prev = &b_st;
+  c_st.tls = b_st.tls;
+  b_obj = obj;
+  st.site = &y_emlrtRSI;
+  b_st.site = &i_emlrtRSI;
+  b_obj->NameInternal.Length = 200.0;
+  for (i = 0; i < 200; i++) {
+    b_obj->NameInternal.Vector[i] = ' ';
+  }
+
+  st.site = &mb_emlrtRSI;
+  for (i = 0; i < 200; i++) {
+    s_Vector[i] = b_obj->NameInternal.Vector[i];
+  }
+
+  for (i = 0; i < 2; i++) {
+    iv[i] = 11 * i + 1;
+    iv1[i] = 11 * i + 1;
+  }
+
+  emlrtSubAssignSizeCheckR2012b(&iv[0], 2, &iv1[0], 2, &emlrtECI, &st);
+  for (i = 0; i < 12; i++) {
+    s_Vector[i] = cv[i];
+  }
+
+  b_obj->NameInternal.Length = 12.0;
+  for (i = 0; i < 200; i++) {
+    b_obj->NameInternal.Vector[i] = s_Vector[i];
+  }
+
+  b_obj->ParentIndex = 5.0;
+  b_obj->MassInternal = 0.0;
+  for (i = 0; i < 3; i++) {
+    b_obj->CenterOfMassInternal[i] = 0.0;
+  }
+
+  for (i = 0; i < 9; i++) {
+    b_obj->InertiaInternal[i] = 0.0;
+  }
+
+  for (i = 0; i < 36; i++) {
+    b_obj->SpatialInertia[i] = 0.0;
+  }
+
+  st.site = &nb_emlrtRSI;
+  iobj_1->InTree = false;
+  for (i = 0; i < 16; i++) {
+    iobj_1->JointToParentTransform[i] = (real_T)iv2[i];
+  }
+
+  for (i = 0; i < 16; i++) {
+    iobj_1->ChildToJointTransform[i] = (real_T)iv2[i];
+  }
+
+  for (i = 0; i < 14; i++) {
+    iobj_1->PositionLimitsInternal[i] = 0.0;
+  }
+
+  for (i = 0; i < 7; i++) {
+    iobj_1->HomePositionInternal[i] = 0.0;
+  }
+
+  for (i = 0; i < 36; i++) {
+    iobj_1->MotionSubspaceInternal[i] = 0.0;
+  }
+
+  b_st.site = &cb_emlrtRSI;
+  iobj_1->NameInternal.Length = 200.0;
+  for (i = 0; i < 200; i++) {
+    iobj_1->NameInternal.Vector[i] = ' ';
+  }
+
+  iobj_1->TypeInternal.Length = 200.0;
+  for (i = 0; i < 200; i++) {
+    iobj_1->TypeInternal.Vector[i] = ' ';
+  }
+
+  for (i = 0; i < 200; i++) {
+    s_Vector[i] = iobj_1->NameInternal.Vector[i];
+  }
+
+  for (i = 0; i < 18; i++) {
+    s_Vector[i] = cv1[i];
+  }
+
+  iobj_1->NameInternal.Length = 18.0;
+  for (i = 0; i < 200; i++) {
+    iobj_1->NameInternal.Vector[i] = s_Vector[i];
+  }
+
+  b_st.site = &db_emlrtRSI;
+  for (i = 0; i < 200; i++) {
+    s_Vector[i] = iobj_1->TypeInternal.Vector[i];
+  }
+
+  for (i = 0; i < 5; i++) {
+    s_Vector[i] = vec[i];
+  }
+
+  iobj_1->TypeInternal.Length = 5.0;
+  for (i = 0; i < 200; i++) {
+    iobj_1->TypeInternal.Vector[i] = s_Vector[i];
+  }
+
+  b_st.site = &eb_emlrtRSI;
+  c_st.site = &hb_emlrtRSI;
+  s_Length = iobj_1->TypeInternal.Length;
+  for (i = 0; i < 200; i++) {
+    s_Vector[i] = iobj_1->TypeInternal.Vector[i];
+  }
+
+  if (s_Length < 1.0) {
+    ibmat = 0;
+  } else {
+    i = (int32_T)emlrtIntegerCheckR2012b(s_Length, &emlrtDCI, &c_st);
+    ibmat = emlrtDynamicBoundsCheckR2012b(i, 1, 200, &emlrtBCI, &c_st);
+  }
+
+  switch_expression_size[0] = 1;
+  switch_expression_size[1] = ibmat;
+  if (ibmat - 1 >= 0) {
+    memcpy(&switch_expression_data[0], &s_Vector[0], (uint32_T)ibmat * sizeof
+           (char_T));
+  }
+
+  if (b_strcmp(switch_expression_data, switch_expression_size)) {
+    ibmat = 0;
+  } else if (c_strcmp(switch_expression_data, switch_expression_size)) {
+    ibmat = 1;
+  } else if (d_strcmp(switch_expression_data, switch_expression_size)) {
+    ibmat = 2;
+  } else {
+    ibmat = -1;
+  }
+
+  switch (ibmat) {
+   case 0:
+    msubspace_size[0] = 6;
+    msubspace_size[1] = 1;
+    for (i = 0; i < 6; i++) {
+      msubspace_data[i] = (real_T)iv3[i];
+    }
+
+    poslim_size[0] = 1;
+    poslim_size[1] = 2;
+    for (i = 0; i < 2; i++) {
+      poslim_data[i] = 6.2831853071795862 * (real_T)i - 3.1415926535897931;
+    }
+
+    homepos_size_idx_1 = 1;
+    homepos_data[0] = 0;
+    iobj_1->VelocityNumber = 1.0;
+    iobj_1->PositionNumber = 1.0;
+    for (i = 0; i < 3; i++) {
+      iobj_1->JointAxisInternal[i] = (real_T)iv5[i];
+    }
+    break;
+
+   case 1:
+    msubspace_size[0] = 6;
+    msubspace_size[1] = 1;
+    for (i = 0; i < 6; i++) {
+      msubspace_data[i] = (real_T)iv4[i];
+    }
+
+    poslim_size[0] = 1;
+    poslim_size[1] = 2;
+    for (i = 0; i < 2; i++) {
+      poslim_data[i] = (real_T)i - 0.5;
+    }
+
+    homepos_size_idx_1 = 1;
+    homepos_data[0] = 0;
+    iobj_1->VelocityNumber = 1.0;
+    iobj_1->PositionNumber = 1.0;
+    for (i = 0; i < 3; i++) {
+      iobj_1->JointAxisInternal[i] = (real_T)iv5[i];
+    }
+    break;
+
+   case 2:
+    for (i = 0; i < 36; i++) {
+      b_I[i] = 0;
+    }
+
+    for (ibmat = 0; ibmat < 6; ibmat++) {
+      b_I[ibmat + 6 * ibmat] = 1;
+    }
+
+    msubspace_size[0] = 6;
+    msubspace_size[1] = 6;
+    for (i = 0; i < 36; i++) {
+      msubspace_data[i] = (real_T)b_I[i];
+    }
+
+    poslim_size[0] = 7;
+    poslim_size[1] = 2;
+    for (jcol = 0; jcol < 2; jcol++) {
+      ibmat = jcol * 3;
+      for (homepos_size_idx_1 = 0; homepos_size_idx_1 < 3; homepos_size_idx_1++)
+      {
+        b_b[ibmat + homepos_size_idx_1] = (int8_T)(10 * jcol - 5);
+      }
+
+      for (i = 0; i < 4; i++) {
+        poslim_data[i + 7 * jcol] = rtNaN;
+      }
+    }
+
+    for (i = 0; i < 2; i++) {
+      for (jcol = 0; jcol < 3; jcol++) {
+        poslim_data[(jcol + 7 * i) + 4] = (real_T)b_b[jcol + 3 * i];
+      }
+    }
+
+    homepos_size_idx_1 = 7;
+    for (i = 0; i < 7; i++) {
+      homepos_data[i] = iv6[i];
+    }
+
+    iobj_1->VelocityNumber = 6.0;
+    iobj_1->PositionNumber = 7.0;
+    for (i = 0; i < 3; i++) {
+      iobj_1->JointAxisInternal[i] = rtNaN;
+    }
+    break;
+
+   default:
+    msubspace_size[0] = 6;
+    msubspace_size[1] = 1;
+    for (i = 0; i < 6; i++) {
+      msubspace_data[i] = 0.0;
+    }
+
+    poslim_size[0] = 1;
+    poslim_size[1] = 2;
+    for (i = 0; i < 2; i++) {
+      poslim_data[i] = 0.0;
+    }
+
+    homepos_size_idx_1 = 1;
+    homepos_data[0] = 0;
+    iobj_1->VelocityNumber = 0.0;
+    iobj_1->PositionNumber = 0.0;
+    for (i = 0; i < 3; i++) {
+      iobj_1->JointAxisInternal[i] = 0.0;
+    }
+    break;
+  }
+
+  b_st.site = &fb_emlrtRSI;
+  rigidBodyJoint_set_MotionSubspace(&b_st, iobj_1, msubspace_data,
+    msubspace_size);
+  b_st.site = &gb_emlrtRSI;
+  c_st.site = &hb_emlrtRSI;
+  s_Length = iobj_1->TypeInternal.Length;
+  for (i = 0; i < 200; i++) {
+    s_Vector[i] = iobj_1->TypeInternal.Vector[i];
+  }
+
+  if (s_Length < 1.0) {
+    ibmat = 0;
+  } else {
+    i = (int32_T)emlrtIntegerCheckR2012b(s_Length, &emlrtDCI, &c_st);
+    ibmat = emlrtDynamicBoundsCheckR2012b(i, 1, 200, &emlrtBCI, &c_st);
+  }
+
+  s_Vector_size[0] = 1;
+  s_Vector_size[1] = ibmat;
+  if (ibmat - 1 >= 0) {
+    memcpy(&switch_expression_data[0], &s_Vector[0], (uint32_T)ibmat * sizeof
+           (char_T));
+  }
+
+  if (!e_strcmp(switch_expression_data, s_Vector_size)) {
+    s_Length = iobj_1->PositionNumber;
+    if (s_Length < 1.0) {
+      ibmat = 0;
+    } else {
+      i = (int32_T)emlrtIntegerCheckR2012b(s_Length, &c_emlrtDCI, &st);
+      ibmat = emlrtDynamicBoundsCheckR2012b(i, 1, 7, &c_emlrtBCI, &st);
+    }
+
+    iv[0] = ibmat;
+    iv[1] = 2;
+    emlrtSubAssignSizeCheckR2012b(&iv[0], 2, &poslim_size[0], 2, &b_emlrtECI,
+      &st);
+    for (i = 0; i < 2; i++) {
+      for (jcol = 0; jcol < ibmat; jcol++) {
+        iobj_1->PositionLimitsInternal[jcol + 7 * i] = poslim_data[jcol +
+          poslim_size[0] * i];
+      }
+    }
+
+    s_Length = iobj_1->PositionNumber;
+    if (s_Length < 1.0) {
+      i = 0;
+    } else {
+      i = (int32_T)emlrtIntegerCheckR2012b(s_Length, &d_emlrtDCI, &st);
+      i = emlrtDynamicBoundsCheckR2012b(i, 1, 7, &d_emlrtBCI, &st);
+    }
+
+    emlrtSubAssignSizeCheck1dR2017a(i, homepos_size_idx_1, &c_emlrtECI, &st);
+    for (i = 0; i < homepos_size_idx_1; i++) {
+      iobj_1->HomePositionInternal[i] = (real_T)homepos_data[i];
+    }
+  } else {
+    for (i = 0; i < 2; i++) {
+      iv[i] = i + 1;
+    }
+
+    emlrtSubAssignSizeCheckR2012b(&iv[0], 2, &poslim_size[0], 2, &d_emlrtECI,
+      &st);
+    for (i = 0; i < 2; i++) {
+      iobj_1->PositionLimitsInternal[7 * i] = poslim_data[i];
+    }
+
+    emlrtSubAssignSizeCheck1dR2017a(1, homepos_size_idx_1, &e_emlrtECI, &st);
+    iobj_1->HomePositionInternal[0] = (real_T)homepos_data[0];
+  }
+
+  b_obj->JointInternal = iobj_1;
+  for (i = 0; i < 16; i++) {
+    b_obj->JointInternal->JointToParentTransform[i] = (real_T)iv2[i];
+  }
+
+  for (i = 0; i < 16; i++) {
+    b_obj->JointInternal->ChildToJointTransform[i] = (real_T)iv2[i];
+  }
+
+  st.site = &ob_emlrtRSI;
+  rigidBodyJoint_get_MotionSubspace(&st, b_obj->JointInternal, msubspace_data,
+    msubspace_size);
+  emlrtDynamicBoundsCheckR2012b(1, 1, msubspace_size[1], &g_emlrtBCI,
+    (emlrtConstCTX)sp);
+  for (i = 0; i < 6; i++) {
+    msubspace_data[i] = 0.0;
+  }
+
+  st.site = &ob_emlrtRSI;
+  rigidBodyJoint_set_MotionSubspace(&st, b_obj->JointInternal, msubspace_data,
+    msubspace_size);
+  b_obj->JointInternal->InTree = true;
+  for (i = 0; i < 2; i++) {
+    b_obj->JointInternal->PositionLimitsInternal[7 * i] = 0.0;
+  }
+
+  for (i = 0; i < 3; i++) {
+    b_obj->JointInternal->JointAxisInternal[i] = 0.0;
+  }
+
+  b_obj->JointInternal->HomePositionInternal[0] = 0.0;
+  st.site = &pb_emlrtRSI;
+  b_obj->CollisionsInternal = CollisionSet_CollisionSet(&st, iobj_0, 0.0);
+  b_obj->matlabCodegenIsDeleted = false;
+  return b_obj;
+}
+
 static rigidBodyJoint *rigidBodyJoint_rigidBodyJoint(const emlrtStack *sp,
   rigidBodyJoint *obj, char_T jname_data[], int32_T jname_size[2])
 {
@@ -7650,69 +8073,43 @@ static void validateattributes(const emlrtStack *sp, int32_T a_size[2])
 }
 
 static void inverseKinematics_set_RigidBodyTree
-  (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const emlrtStack *sp,
+  (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const emlrtStack *sp,
    inverseKinematics *obj, robotics_manip_internal_RigidBodyTree *rigidbodytree,
    rigidBodyJoint *iobj_0, robotics_manip_internal_RigidBody *iobj_1,
    robotics_manip_internal_CollisionSet *iobj_2,
    robotics_manip_internal_RigidBodyTree_1 *iobj_3)
 {
-  static const int32_T iv[2] = { 1, 37 };
+  static const int32_T iv[2] = { 1, 35 };
 
-  static const int32_T iv1[2] = { 1, 48 };
+  static const int32_T iv1[2] = { 1, 46 };
 
-  static const int32_T iv10[2] = { 1, 46 };
+  static const int32_T iv2[2] = { 1, 35 };
 
-  static const int32_T iv11[2] = { 1, 7 };
+  static const int32_T iv3[2] = { 1, 7 };
 
-  static const int32_T iv2[2] = { 1, 8 };
+  static const int32_T iv4[2] = { 1, 46 };
 
-  static const int32_T iv3[2] = { 1, 51 };
+  static const int32_T iv5[2] = { 1, 7 };
 
-  static const int32_T iv4[2] = { 1, 51 };
-
-  static const int32_T iv6[2] = { 1, 35 };
-
-  static const int32_T iv7[2] = { 1, 46 };
-
-  static const int32_T iv8[2] = { 1, 35 };
-
-  static const int32_T iv9[2] = { 1, 7 };
-
-  static char_T i_u[51] = { 'r', 'o', 'b', 'o', 't', 'i', 'c', 's', ':', 'r',
-    'o', 'b', 'o', 't', 'm', 'a', 'n', 'i', 'p', ':', 'r', 'i', 'g', 'i', 'd',
-    'b', 'o', 'd', 'y', 't', 'r', 'e', 'e', ':', 'B', 'a', 's', 'e', 'N', 'a',
-    'm', 'e', 'C', 'o', 'l', 'l', 'i', 's', 'i', 'o', 'n' };
-
-  static char_T e_u[48] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
-    'b', 'o', 'x', ':', 'V', 'a', 'l', 'i', 'd', 'a', 't', 'e', 'a', 't', 't',
-    'r', 'i', 'b', 'u', 't', 'e', 's', 'e', 'x', 'p', 'e', 'c', 't', 'e', 'd',
-    'N', 'o', 'n', 'e', 'm', 'p', 't', 'y' };
-
-  static char_T m_u[46] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
+  static char_T e_u[46] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
     'b', 'o', 'x', ':', 'V', 'a', 'l', 'i', 'd', 'a', 't', 'e', 'a', 't', 't',
     'r', 'i', 'b', 'u', 't', 'e', 's', 'e', 'x', 'p', 'e', 'c', 't', 'e', 'd',
     'N', 'o', 'n', 'N', 'a', 'N' };
 
-  static char_T q_u[46] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
+  static char_T i_u[46] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
     'b', 'o', 'x', ':', 'V', 'a', 'l', 'i', 'd', 'a', 't', 'e', 'a', 't', 't',
     'r', 'i', 'b', 'u', 't', 'e', 's', 'e', 'x', 'p', 'e', 'c', 't', 'e', 'd',
     'F', 'i', 'n', 'i', 't', 'e' };
 
-  static char_T c_u[37] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'r', 'i', 'g',
-    'i', 'd', 'B', 'o', 'd', 'y', 'T', 'r', 'e', 'e', ':', 'e', 'x', 'p', 'e',
-    'c', 't', 'e', 'd', 'N', 'o', 'n', 'e', 'm', 'p', 't', 'y' };
-
-  static char_T k_u[35] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'r', 'i', 'g',
+  static char_T c_u[35] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'r', 'i', 'g',
     'i', 'd', 'B', 'o', 'd', 'y', 'T', 'r', 'e', 'e', ':', 'e', 'x', 'p', 'e',
     'c', 't', 'e', 'd', 'N', 'o', 'n', 'N', 'a', 'N' };
 
-  static char_T n_u[35] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'r', 'i', 'g',
+  static char_T f_u[35] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'r', 'i', 'g',
     'i', 'd', 'B', 'o', 'd', 'y', 'T', 'r', 'e', 'e', ':', 'e', 'x', 'p', 'e',
     'c', 't', 'e', 'd', 'F', 'i', 'n', 'i', 't', 'e' };
 
-  static char_T g_u[8] = { 'b', 'a', 's', 'e', 'N', 'a', 'm', 'e' };
-
-  static char_T p_u[7] = { 'G', 'r', 'a', 'v', 'i', 't', 'y' };
+  static char_T h_u[7] = { 'G', 'r', 'a', 'v', 'i', 't', 'y' };
 
   emlrtStack b_st;
   emlrtStack c_st;
@@ -7724,42 +8121,26 @@ static void inverseKinematics_set_RigidBodyTree
   const mxArray *d_y;
   const mxArray *e_y;
   const mxArray *f_y;
-  const mxArray *g_y;
-  const mxArray *h_y;
-  const mxArray *i_y;
-  const mxArray *j_y;
-  const mxArray *k_y;
-  const mxArray *l_y;
   const mxArray *m;
   const mxArray *y;
-  robotics_manip_internal_CharacterVector b_obj;
   robotics_manip_internal_RigidBody *body;
   robotics_manip_internal_RigidBody *parent;
   robotics_manip_internal_RigidBodyTree_1 *newrobot;
   real_T g[3];
   real_T pid;
-  int32_T b_obj_size[2];
-  int32_T basename_size[2];
-  int32_T c_obj_size[2];
-  int32_T d_obj_size[2];
-  int32_T e_obj_size[2];
-  int32_T f_obj_size[2];
-  int32_T g_obj_size[2];
-  int32_T iv5[2];
-  int32_T obj_size[2];
-  int32_T b_loop_ub;
-  int32_T bid;
-  int32_T i;
+  int32_T b_obj_Vector_size[2];
+  int32_T c_obj_Vector_size[2];
+  int32_T d_obj_Vector_size[2];
+  int32_T e_obj_Vector_size[2];
+  int32_T f_obj_Vector_size[2];
+  int32_T g_obj_Vector_size[2];
+  int32_T obj_Vector_size[2];
   int32_T loop_ub;
-  char_T basename_data[200];
-  char_T obj_data[200];
-  char_T h_u[51];
-  char_T d_u[48];
-  char_T l_u[46];
-  char_T b_u[37];
-  char_T j_u[35];
-  char_T f_u[8];
-  char_T o_u[7];
+  char_T obj_Vector[200];
+  char_T obj_Vector_data[200];
+  char_T d_u[46];
+  char_T b_u[35];
+  char_T g_u[7];
   boolean_T exitg1;
   boolean_T p;
   st.prev = sp;
@@ -7778,148 +8159,27 @@ static void inverseKinematics_set_RigidBodyTree
   b_st.site = &cc_emlrtRSI;
   c_st.site = &mc_emlrtRSI;
   d_st.site = &nc_emlrtRSI;
-  b_obj = rigidbodytree->Base.NameInternal;
-  if (b_obj.Length < 1.0) {
-    b_loop_ub = 0;
-  } else {
-    loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI, &d_st);
-    b_loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &d_st);
+  pid = rigidbodytree->Base.NameInternal.Length;
+  for (loop_ub = 0; loop_ub < 200; loop_ub++) {
+    obj_Vector[loop_ub] = rigidbodytree->Base.NameInternal.Vector[loop_ub];
   }
 
-  basename_size[0] = 1;
-  basename_size[1] = b_loop_ub;
-  if (b_loop_ub - 1 >= 0) {
-    memcpy(&basename_data[0], &b_obj.Vector[0], (uint32_T)b_loop_ub * sizeof
+  if (pid < 1.0) {
+    loop_ub = 0;
+  } else {
+    loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &emlrtDCI, &d_st);
+    loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &d_st);
+  }
+
+  obj_Vector_size[0] = 1;
+  obj_Vector_size[1] = loop_ub;
+  if (loop_ub - 1 >= 0) {
+    memcpy(&obj_Vector_data[0], &obj_Vector[0], (uint32_T)loop_ub * sizeof
            (char_T));
   }
 
   b_st.site = &cc_emlrtRSI;
-  c_st.site = &oc_emlrtRSI;
-  d_st.site = &vb_emlrtRSI;
-  if (b_loop_ub == 0) {
-    for (loop_ub = 0; loop_ub < 37; loop_ub++) {
-      b_u[loop_ub] = c_u[loop_ub];
-    }
-
-    y = NULL;
-    m = emlrtCreateCharArray(2, &iv[0]);
-    emlrtInitCharArrayR2013a(&d_st, 37, m, &b_u[0]);
-    emlrtAssign(&y, m);
-    for (loop_ub = 0; loop_ub < 48; loop_ub++) {
-      d_u[loop_ub] = e_u[loop_ub];
-    }
-
-    b_y = NULL;
-    m = emlrtCreateCharArray(2, &iv1[0]);
-    emlrtInitCharArrayR2013a(&d_st, 48, m, &d_u[0]);
-    emlrtAssign(&b_y, m);
-    for (loop_ub = 0; loop_ub < 8; loop_ub++) {
-      f_u[loop_ub] = g_u[loop_ub];
-    }
-
-    c_y = NULL;
-    m = emlrtCreateCharArray(2, &iv2[0]);
-    emlrtInitCharArrayR2013a(&d_st, 8, m, &f_u[0]);
-    emlrtAssign(&c_y, m);
-    e_st.site = &ll_emlrtRSI;
-    b_error(&e_st, y, getString(&e_st, message(&e_st, b_y, c_y, &c_emlrtMCI),
-             &c_emlrtMCI), &c_emlrtMCI);
-  }
-
-  c_st.site = &pc_emlrtRSI;
-  bid = -1;
-  d_st.site = &sc_emlrtRSI;
-  b_validateattributes(&d_st, basename_size);
-  d_st.site = &tc_emlrtRSI;
-  e_st.site = &nc_emlrtRSI;
-  b_obj = newrobot->Base.NameInternal;
-  if (b_obj.Length < 1.0) {
-    loop_ub = 0;
-  } else {
-    loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI, &e_st);
-    loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &e_st);
-  }
-
-  obj_size[0] = 1;
-  obj_size[1] = loop_ub;
-  if (loop_ub - 1 >= 0) {
-    memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)loop_ub * sizeof(char_T));
-  }
-
-  if (f_strcmp(obj_data, obj_size, basename_data, basename_size)) {
-    bid = 0;
-  } else {
-    pid = newrobot->NumBodies;
-    emlrtForLoopVectorCheckR2021a(1.0, 1.0, pid, mxDOUBLE_CLASS, (int32_T)pid,
-      &b_emlrtRTEI, &c_st);
-    i = 0;
-    exitg1 = false;
-    while ((!exitg1) && (i <= (int32_T)pid - 1)) {
-      d_st.site = &uc_emlrtRSI;
-      body = newrobot->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 4, &i_emlrtBCI,
-        &d_st)];
-      e_st.site = &nc_emlrtRSI;
-      b_obj = body->NameInternal;
-      if (b_obj.Length < 1.0) {
-        loop_ub = 0;
-      } else {
-        loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI,
-          &e_st);
-        loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI,
-          &e_st);
-      }
-
-      b_obj_size[0] = 1;
-      b_obj_size[1] = loop_ub;
-      if (loop_ub - 1 >= 0) {
-        memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)loop_ub * sizeof(char_T));
-      }
-
-      if (f_strcmp(obj_data, b_obj_size, basename_data, basename_size)) {
-        bid = i + 1;
-        exitg1 = true;
-      } else {
-        i++;
-      }
-    }
-  }
-
-  if (bid != 0) {
-    if (bid < 0) {
-      b_obj = newrobot->Base.NameInternal;
-      c_st.site = &qc_emlrtRSI;
-      CharacterVector_setVector(&c_st, &b_obj, basename_data, basename_size);
-      newrobot->Base.NameInternal = b_obj;
-    } else {
-      c_st.site = &rc_emlrtRSI;
-      for (loop_ub = 0; loop_ub < 51; loop_ub++) {
-        h_u[loop_ub] = i_u[loop_ub];
-      }
-
-      d_y = NULL;
-      m = emlrtCreateCharArray(2, &iv3[0]);
-      emlrtInitCharArrayR2013a(&c_st, 51, m, &h_u[0]);
-      emlrtAssign(&d_y, m);
-      for (loop_ub = 0; loop_ub < 51; loop_ub++) {
-        h_u[loop_ub] = i_u[loop_ub];
-      }
-
-      e_y = NULL;
-      m = emlrtCreateCharArray(2, &iv4[0]);
-      emlrtInitCharArrayR2013a(&c_st, 51, m, &h_u[0]);
-      emlrtAssign(&e_y, m);
-      f_y = NULL;
-      iv5[0] = 1;
-      iv5[1] = b_loop_ub;
-      m = emlrtCreateCharArray(2, &iv5[0]);
-      emlrtInitCharArrayR2013a(&c_st, b_loop_ub, m, &basename_data[0]);
-      emlrtAssign(&f_y, m);
-      d_st.site = &jl_emlrtRSI;
-      b_error(&d_st, d_y, getString(&d_st, message(&d_st, e_y, f_y, &d_emlrtMCI),
-               &d_emlrtMCI), &d_emlrtMCI);
-    }
-  }
-
+  RigidBodyTree_set_BaseName(&b_st, newrobot, obj_Vector_data, obj_Vector_size);
   b_st.site = &fc_emlrtRSI;
   newrobot->Base.CollisionsInternal = CollisionSet_copy(&b_st,
     rigidbodytree->Base.CollisionsInternal, &iobj_2[0]);
@@ -7944,31 +8204,31 @@ static void inverseKinematics_set_RigidBodyTree
 
   if (!p) {
     for (loop_ub = 0; loop_ub < 35; loop_ub++) {
-      j_u[loop_ub] = k_u[loop_ub];
+      b_u[loop_ub] = c_u[loop_ub];
     }
 
-    g_y = NULL;
-    m = emlrtCreateCharArray(2, &iv6[0]);
-    emlrtInitCharArrayR2013a(&d_st, 35, m, &j_u[0]);
-    emlrtAssign(&g_y, m);
+    y = NULL;
+    m = emlrtCreateCharArray(2, &iv[0]);
+    emlrtInitCharArrayR2013a(&d_st, 35, m, &b_u[0]);
+    emlrtAssign(&y, m);
     for (loop_ub = 0; loop_ub < 46; loop_ub++) {
-      l_u[loop_ub] = m_u[loop_ub];
+      d_u[loop_ub] = e_u[loop_ub];
     }
 
-    h_y = NULL;
-    m = emlrtCreateCharArray(2, &iv7[0]);
-    emlrtInitCharArrayR2013a(&d_st, 46, m, &l_u[0]);
-    emlrtAssign(&h_y, m);
+    b_y = NULL;
+    m = emlrtCreateCharArray(2, &iv1[0]);
+    emlrtInitCharArrayR2013a(&d_st, 46, m, &d_u[0]);
+    emlrtAssign(&b_y, m);
     for (loop_ub = 0; loop_ub < 7; loop_ub++) {
-      o_u[loop_ub] = p_u[loop_ub];
+      g_u[loop_ub] = h_u[loop_ub];
     }
 
-    j_y = NULL;
-    m = emlrtCreateCharArray(2, &iv9[0]);
-    emlrtInitCharArrayR2013a(&d_st, 7, m, &o_u[0]);
-    emlrtAssign(&j_y, m);
+    d_y = NULL;
+    m = emlrtCreateCharArray(2, &iv3[0]);
+    emlrtInitCharArrayR2013a(&d_st, 7, m, &g_u[0]);
+    emlrtAssign(&d_y, m);
     e_st.site = &gl_emlrtRSI;
-    b_error(&e_st, g_y, getString(&e_st, message(&e_st, h_y, j_y, &e_emlrtMCI),
+    b_error(&e_st, y, getString(&e_st, message(&e_st, b_y, d_y, &e_emlrtMCI),
              &e_emlrtMCI), &e_emlrtMCI);
   }
 
@@ -7988,31 +8248,31 @@ static void inverseKinematics_set_RigidBodyTree
 
   if (!p) {
     for (loop_ub = 0; loop_ub < 35; loop_ub++) {
-      j_u[loop_ub] = n_u[loop_ub];
+      b_u[loop_ub] = f_u[loop_ub];
     }
 
-    i_y = NULL;
-    m = emlrtCreateCharArray(2, &iv8[0]);
-    emlrtInitCharArrayR2013a(&d_st, 35, m, &j_u[0]);
-    emlrtAssign(&i_y, m);
+    c_y = NULL;
+    m = emlrtCreateCharArray(2, &iv2[0]);
+    emlrtInitCharArrayR2013a(&d_st, 35, m, &b_u[0]);
+    emlrtAssign(&c_y, m);
     for (loop_ub = 0; loop_ub < 46; loop_ub++) {
-      l_u[loop_ub] = q_u[loop_ub];
+      d_u[loop_ub] = i_u[loop_ub];
     }
 
-    k_y = NULL;
-    m = emlrtCreateCharArray(2, &iv10[0]);
-    emlrtInitCharArrayR2013a(&d_st, 46, m, &l_u[0]);
-    emlrtAssign(&k_y, m);
+    e_y = NULL;
+    m = emlrtCreateCharArray(2, &iv4[0]);
+    emlrtInitCharArrayR2013a(&d_st, 46, m, &d_u[0]);
+    emlrtAssign(&e_y, m);
     for (loop_ub = 0; loop_ub < 7; loop_ub++) {
-      o_u[loop_ub] = p_u[loop_ub];
+      g_u[loop_ub] = h_u[loop_ub];
     }
 
-    l_y = NULL;
-    m = emlrtCreateCharArray(2, &iv11[0]);
-    emlrtInitCharArrayR2013a(&d_st, 7, m, &o_u[0]);
-    emlrtAssign(&l_y, m);
+    f_y = NULL;
+    m = emlrtCreateCharArray(2, &iv5[0]);
+    emlrtInitCharArrayR2013a(&d_st, 7, m, &g_u[0]);
+    emlrtAssign(&f_y, m);
     e_st.site = &fl_emlrtRSI;
-    b_error(&e_st, i_y, getString(&e_st, message(&e_st, k_y, l_y, &f_emlrtMCI),
+    b_error(&e_st, c_y, getString(&e_st, message(&e_st, e_y, f_y, &f_emlrtMCI),
              &f_emlrtMCI), &f_emlrtMCI);
   }
 
@@ -8021,32 +8281,36 @@ static void inverseKinematics_set_RigidBodyTree
     pid = body->ParentIndex;
     if (pid > 0.0) {
       loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &i_emlrtDCI, &st) - 1;
-      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 4,
-        &j_emlrtBCI, &st)];
+      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 5,
+        &i_emlrtBCI, &st)];
     } else {
       parent = &rigidbodytree->Base;
     }
 
     b_st.site = &ec_emlrtRSI;
     c_st.site = &nc_emlrtRSI;
-    b_obj = parent->NameInternal;
-    if (b_obj.Length < 1.0) {
-      b_loop_ub = 0;
-    } else {
-      loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI, &c_st);
-      b_loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI,
-        &c_st);
+    pid = parent->NameInternal.Length;
+    for (loop_ub = 0; loop_ub < 200; loop_ub++) {
+      obj_Vector[loop_ub] = parent->NameInternal.Vector[loop_ub];
     }
 
-    c_obj_size[0] = 1;
-    c_obj_size[1] = b_loop_ub;
-    if (b_loop_ub - 1 >= 0) {
-      memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)b_loop_ub * sizeof(char_T));
+    if (pid < 1.0) {
+      loop_ub = 0;
+    } else {
+      loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &emlrtDCI, &c_st);
+      loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &c_st);
+    }
+
+    b_obj_Vector_size[0] = 1;
+    b_obj_Vector_size[1] = loop_ub;
+    if (loop_ub - 1 >= 0) {
+      memcpy(&obj_Vector_data[0], &obj_Vector[0], (uint32_T)loop_ub * sizeof
+             (char_T));
     }
 
     b_st.site = &ec_emlrtRSI;
-    RigidBodyTree_addBody(&b_st, newrobot, body, obj_data, c_obj_size, &iobj_2[1],
-                          &iobj_0[0], &iobj_1[0]);
+    RigidBodyTree_addBody(&b_st, newrobot, body, obj_Vector_data,
+                          b_obj_Vector_size, &iobj_2[1], &iobj_0[0], &iobj_1[0]);
   }
 
   if (rigidbodytree->NumBodies >= 2.0) {
@@ -8054,32 +8318,36 @@ static void inverseKinematics_set_RigidBodyTree
     pid = body->ParentIndex;
     if (pid > 0.0) {
       loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &i_emlrtDCI, &st) - 1;
-      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 4,
-        &j_emlrtBCI, &st)];
+      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 5,
+        &i_emlrtBCI, &st)];
     } else {
       parent = &rigidbodytree->Base;
     }
 
     b_st.site = &ec_emlrtRSI;
     c_st.site = &nc_emlrtRSI;
-    b_obj = parent->NameInternal;
-    if (b_obj.Length < 1.0) {
-      b_loop_ub = 0;
-    } else {
-      loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI, &c_st);
-      b_loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI,
-        &c_st);
+    pid = parent->NameInternal.Length;
+    for (loop_ub = 0; loop_ub < 200; loop_ub++) {
+      obj_Vector[loop_ub] = parent->NameInternal.Vector[loop_ub];
     }
 
-    d_obj_size[0] = 1;
-    d_obj_size[1] = b_loop_ub;
-    if (b_loop_ub - 1 >= 0) {
-      memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)b_loop_ub * sizeof(char_T));
+    if (pid < 1.0) {
+      loop_ub = 0;
+    } else {
+      loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &emlrtDCI, &c_st);
+      loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &c_st);
+    }
+
+    c_obj_Vector_size[0] = 1;
+    c_obj_Vector_size[1] = loop_ub;
+    if (loop_ub - 1 >= 0) {
+      memcpy(&obj_Vector_data[0], &obj_Vector[0], (uint32_T)loop_ub * sizeof
+             (char_T));
     }
 
     b_st.site = &ec_emlrtRSI;
-    RigidBodyTree_addBody(&b_st, newrobot, body, obj_data, d_obj_size, &iobj_2[3],
-                          &iobj_0[2], &iobj_1[1]);
+    RigidBodyTree_addBody(&b_st, newrobot, body, obj_Vector_data,
+                          c_obj_Vector_size, &iobj_2[3], &iobj_0[2], &iobj_1[1]);
   }
 
   if (rigidbodytree->NumBodies >= 3.0) {
@@ -8087,32 +8355,36 @@ static void inverseKinematics_set_RigidBodyTree
     pid = body->ParentIndex;
     if (pid > 0.0) {
       loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &i_emlrtDCI, &st) - 1;
-      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 4,
-        &j_emlrtBCI, &st)];
+      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 5,
+        &i_emlrtBCI, &st)];
     } else {
       parent = &rigidbodytree->Base;
     }
 
     b_st.site = &ec_emlrtRSI;
     c_st.site = &nc_emlrtRSI;
-    b_obj = parent->NameInternal;
-    if (b_obj.Length < 1.0) {
-      b_loop_ub = 0;
-    } else {
-      loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI, &c_st);
-      b_loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI,
-        &c_st);
+    pid = parent->NameInternal.Length;
+    for (loop_ub = 0; loop_ub < 200; loop_ub++) {
+      obj_Vector[loop_ub] = parent->NameInternal.Vector[loop_ub];
     }
 
-    e_obj_size[0] = 1;
-    e_obj_size[1] = b_loop_ub;
-    if (b_loop_ub - 1 >= 0) {
-      memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)b_loop_ub * sizeof(char_T));
+    if (pid < 1.0) {
+      loop_ub = 0;
+    } else {
+      loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &emlrtDCI, &c_st);
+      loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &c_st);
+    }
+
+    d_obj_Vector_size[0] = 1;
+    d_obj_Vector_size[1] = loop_ub;
+    if (loop_ub - 1 >= 0) {
+      memcpy(&obj_Vector_data[0], &obj_Vector[0], (uint32_T)loop_ub * sizeof
+             (char_T));
     }
 
     b_st.site = &ec_emlrtRSI;
-    RigidBodyTree_addBody(&b_st, newrobot, body, obj_data, e_obj_size, &iobj_2[5],
-                          &iobj_0[4], &iobj_1[2]);
+    RigidBodyTree_addBody(&b_st, newrobot, body, obj_Vector_data,
+                          d_obj_Vector_size, &iobj_2[5], &iobj_0[4], &iobj_1[2]);
   }
 
   if (rigidbodytree->NumBodies >= 4.0) {
@@ -8120,32 +8392,36 @@ static void inverseKinematics_set_RigidBodyTree
     pid = body->ParentIndex;
     if (pid > 0.0) {
       loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &i_emlrtDCI, &st) - 1;
-      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 4,
-        &j_emlrtBCI, &st)];
+      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 5,
+        &i_emlrtBCI, &st)];
     } else {
       parent = &rigidbodytree->Base;
     }
 
     b_st.site = &ec_emlrtRSI;
     c_st.site = &nc_emlrtRSI;
-    b_obj = parent->NameInternal;
-    if (b_obj.Length < 1.0) {
-      b_loop_ub = 0;
-    } else {
-      loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI, &c_st);
-      b_loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI,
-        &c_st);
+    pid = parent->NameInternal.Length;
+    for (loop_ub = 0; loop_ub < 200; loop_ub++) {
+      obj_Vector[loop_ub] = parent->NameInternal.Vector[loop_ub];
     }
 
-    f_obj_size[0] = 1;
-    f_obj_size[1] = b_loop_ub;
-    if (b_loop_ub - 1 >= 0) {
-      memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)b_loop_ub * sizeof(char_T));
+    if (pid < 1.0) {
+      loop_ub = 0;
+    } else {
+      loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &emlrtDCI, &c_st);
+      loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &c_st);
+    }
+
+    e_obj_Vector_size[0] = 1;
+    e_obj_Vector_size[1] = loop_ub;
+    if (loop_ub - 1 >= 0) {
+      memcpy(&obj_Vector_data[0], &obj_Vector[0], (uint32_T)loop_ub * sizeof
+             (char_T));
     }
 
     b_st.site = &ec_emlrtRSI;
-    RigidBodyTree_addBody(&b_st, newrobot, body, obj_data, f_obj_size, &iobj_2[7],
-                          &iobj_0[6], &iobj_1[3]);
+    RigidBodyTree_addBody(&b_st, newrobot, body, obj_Vector_data,
+                          e_obj_Vector_size, &iobj_2[7], &iobj_0[6], &iobj_1[3]);
   }
 
   if (rigidbodytree->NumBodies >= 5.0) {
@@ -8153,32 +8429,73 @@ static void inverseKinematics_set_RigidBodyTree
     pid = body->ParentIndex;
     if (pid > 0.0) {
       loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &i_emlrtDCI, &st) - 1;
-      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 4,
-        &j_emlrtBCI, &st)];
+      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 5,
+        &i_emlrtBCI, &st)];
     } else {
       parent = &rigidbodytree->Base;
     }
 
     b_st.site = &ec_emlrtRSI;
     c_st.site = &nc_emlrtRSI;
-    b_obj = parent->NameInternal;
-    if (b_obj.Length < 1.0) {
-      b_loop_ub = 0;
-    } else {
-      loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI, &c_st);
-      b_loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI,
-        &c_st);
+    pid = parent->NameInternal.Length;
+    for (loop_ub = 0; loop_ub < 200; loop_ub++) {
+      obj_Vector[loop_ub] = parent->NameInternal.Vector[loop_ub];
     }
 
-    g_obj_size[0] = 1;
-    g_obj_size[1] = b_loop_ub;
-    if (b_loop_ub - 1 >= 0) {
-      memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)b_loop_ub * sizeof(char_T));
+    if (pid < 1.0) {
+      loop_ub = 0;
+    } else {
+      loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &emlrtDCI, &c_st);
+      loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &c_st);
+    }
+
+    f_obj_Vector_size[0] = 1;
+    f_obj_Vector_size[1] = loop_ub;
+    if (loop_ub - 1 >= 0) {
+      memcpy(&obj_Vector_data[0], &obj_Vector[0], (uint32_T)loop_ub * sizeof
+             (char_T));
     }
 
     b_st.site = &ec_emlrtRSI;
-    RigidBodyTree_addBody(&b_st, newrobot, body, obj_data, g_obj_size, &iobj_2[9],
-                          &iobj_0[8], &iobj_1[4]);
+    RigidBodyTree_addBody(&b_st, newrobot, body, obj_Vector_data,
+                          f_obj_Vector_size, &iobj_2[9], &iobj_0[8], &iobj_1[4]);
+  }
+
+  if (rigidbodytree->NumBodies >= 6.0) {
+    body = rigidbodytree->Bodies[5];
+    pid = body->ParentIndex;
+    if (pid > 0.0) {
+      loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &i_emlrtDCI, &st) - 1;
+      parent = rigidbodytree->Bodies[emlrtDynamicBoundsCheckR2012b(loop_ub, 0, 5,
+        &i_emlrtBCI, &st)];
+    } else {
+      parent = &rigidbodytree->Base;
+    }
+
+    b_st.site = &ec_emlrtRSI;
+    c_st.site = &nc_emlrtRSI;
+    pid = parent->NameInternal.Length;
+    for (loop_ub = 0; loop_ub < 200; loop_ub++) {
+      obj_Vector[loop_ub] = parent->NameInternal.Vector[loop_ub];
+    }
+
+    if (pid < 1.0) {
+      loop_ub = 0;
+    } else {
+      loop_ub = (int32_T)emlrtIntegerCheckR2012b(pid, &emlrtDCI, &c_st);
+      loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &c_st);
+    }
+
+    g_obj_Vector_size[0] = 1;
+    g_obj_Vector_size[1] = loop_ub;
+    if (loop_ub - 1 >= 0) {
+      memcpy(&obj_Vector_data[0], &obj_Vector[0], (uint32_T)loop_ub * sizeof
+             (char_T));
+    }
+
+    b_st.site = &ec_emlrtRSI;
+    RigidBodyTree_addBody(&b_st, newrobot, body, obj_Vector_data,
+                          g_obj_Vector_size, &iobj_2[11], &iobj_0[10], &iobj_1[5]);
   }
 
   obj->RigidBodyTreeInternal = newrobot;
@@ -8186,7 +8503,7 @@ static void inverseKinematics_set_RigidBodyTree
 }
 
 static robotics_manip_internal_RigidBodyTree_1 *RigidBodyTree_RigidBodyTree
-  (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const emlrtStack *sp,
+  (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const emlrtStack *sp,
    robotics_manip_internal_RigidBodyTree_1 *obj)
 {
   static char_T cv2[10] = { 'd', 'u', 'm', 'm', 'y', 'b', 'o', 'd', 'y', '1' };
@@ -8199,6 +8516,8 @@ static robotics_manip_internal_RigidBodyTree_1 *RigidBodyTree_RigidBodyTree
 
   static char_T cv6[10] = { 'd', 'u', 'm', 'm', 'y', 'b', 'o', 'd', 'y', '5' };
 
+  static char_T cv7[10] = { 'd', 'u', 'm', 'm', 'y', 'b', 'o', 'd', 'y', '6' };
+
   static char_T cv1[8] = { 'b', 'a', 's', 'e', '_', 'j', 'n', 't' };
 
   static char_T vec[5] = { 'f', 'i', 'x', 'e', 'd' };
@@ -8207,7 +8526,7 @@ static robotics_manip_internal_RigidBodyTree_1 *RigidBodyTree_RigidBodyTree
 
   static int8_T iv[16] = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1 };
 
-  static int8_T iv5[10] = { 0, 0, 0, 0, 0, -1, -1, -1, -1, -1 };
+  static int8_T iv5[12] = { 0, 0, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1 };
 
   static int8_T iv4[7] = { 1, 0, 0, 0, 0, 0, 0 };
 
@@ -8641,6 +8960,9 @@ static robotics_manip_internal_RigidBodyTree_1 *RigidBodyTree_RigidBodyTree
   c_st.site = &x_emlrtRSI;
   b_obj->Bodies[4] = RigidBody_RigidBody(&c_st, &b_obj->_pobj0[4], cv6,
     &b_obj->_pobj1[5], &b_obj->_pobj2[5]);
+  c_st.site = &x_emlrtRSI;
+  b_obj->Bodies[5] = RigidBody_RigidBody(&c_st, &b_obj->_pobj0[5], cv7,
+    &b_obj->_pobj1[6], &b_obj->_pobj2[6]);
   b_obj->NumBodies = 0.0;
   b_obj->NumNonFixedBodies = 0.0;
   b_obj->PositionNumber = 0.0;
@@ -8669,16 +8991,205 @@ static robotics_manip_internal_RigidBodyTree_1 *RigidBodyTree_RigidBodyTree
     emlrtDynamicBoundsCheckR2012b(jcol, 1, 62, &b_emlrtBCI, &d_st);
   }
 
-  for (i = 0; i < 10; i++) {
+  for (i = 0; i < 12; i++) {
     b_obj->PositionDoFMap[i] = (real_T)iv5[i];
   }
 
-  for (i = 0; i < 10; i++) {
+  for (i = 0; i < 12; i++) {
     b_obj->VelocityDoFMap[i] = (real_T)iv5[i];
   }
 
   b_obj->matlabCodegenIsDeleted = false;
   return b_obj;
+}
+
+static void RigidBodyTree_set_BaseName(const emlrtStack *sp,
+  robotics_manip_internal_RigidBodyTree_1 *obj, char_T baseName_data[], int32_T
+  baseName_size[2])
+{
+  static const int32_T iv[2] = { 1, 37 };
+
+  static const int32_T iv1[2] = { 1, 48 };
+
+  static const int32_T iv2[2] = { 1, 8 };
+
+  static const int32_T iv3[2] = { 1, 51 };
+
+  static const int32_T iv4[2] = { 1, 51 };
+
+  static char_T i_u[51] = { 'r', 'o', 'b', 'o', 't', 'i', 'c', 's', ':', 'r',
+    'o', 'b', 'o', 't', 'm', 'a', 'n', 'i', 'p', ':', 'r', 'i', 'g', 'i', 'd',
+    'b', 'o', 'd', 'y', 't', 'r', 'e', 'e', ':', 'B', 'a', 's', 'e', 'N', 'a',
+    'm', 'e', 'C', 'o', 'l', 'l', 'i', 's', 'i', 'o', 'n' };
+
+  static char_T e_u[48] = { 'C', 'o', 'd', 'e', 'r', ':', 't', 'o', 'o', 'l',
+    'b', 'o', 'x', ':', 'V', 'a', 'l', 'i', 'd', 'a', 't', 'e', 'a', 't', 't',
+    'r', 'i', 'b', 'u', 't', 'e', 's', 'e', 'x', 'p', 'e', 'c', 't', 'e', 'd',
+    'N', 'o', 'n', 'e', 'm', 'p', 't', 'y' };
+
+  static char_T c_u[37] = { 'M', 'A', 'T', 'L', 'A', 'B', ':', 'r', 'i', 'g',
+    'i', 'd', 'B', 'o', 'd', 'y', 'T', 'r', 'e', 'e', ':', 'e', 'x', 'p', 'e',
+    'c', 't', 'e', 'd', 'N', 'o', 'n', 'e', 'm', 'p', 't', 'y' };
+
+  static char_T g_u[8] = { 'b', 'a', 's', 'e', 'N', 'a', 'm', 'e' };
+
+  emlrtStack b_st;
+  emlrtStack c_st;
+  emlrtStack st;
+  const mxArray *b_y;
+  const mxArray *c_y;
+  const mxArray *d_y;
+  const mxArray *e_y;
+  const mxArray *f_y;
+  const mxArray *m;
+  const mxArray *y;
+  robotics_manip_internal_CharacterVector b_obj;
+  robotics_manip_internal_RigidBody *c_obj;
+  real_T d;
+  int32_T b_obj_size[2];
+  int32_T obj_size[2];
+  int32_T bid;
+  int32_T i;
+  int32_T loop_ub;
+  char_T obj_data[200];
+  char_T h_u[51];
+  char_T d_u[48];
+  char_T b_u[37];
+  char_T f_u[8];
+  boolean_T exitg1;
+  st.prev = sp;
+  st.tls = sp->tls;
+  st.site = &oc_emlrtRSI;
+  b_st.prev = &st;
+  b_st.tls = st.tls;
+  c_st.prev = &b_st;
+  c_st.tls = b_st.tls;
+  b_st.site = &vb_emlrtRSI;
+  if (baseName_size[1] == 0) {
+    for (loop_ub = 0; loop_ub < 37; loop_ub++) {
+      b_u[loop_ub] = c_u[loop_ub];
+    }
+
+    y = NULL;
+    m = emlrtCreateCharArray(2, &iv[0]);
+    emlrtInitCharArrayR2013a(&b_st, 37, m, &b_u[0]);
+    emlrtAssign(&y, m);
+    for (loop_ub = 0; loop_ub < 48; loop_ub++) {
+      d_u[loop_ub] = e_u[loop_ub];
+    }
+
+    b_y = NULL;
+    m = emlrtCreateCharArray(2, &iv1[0]);
+    emlrtInitCharArrayR2013a(&b_st, 48, m, &d_u[0]);
+    emlrtAssign(&b_y, m);
+    for (loop_ub = 0; loop_ub < 8; loop_ub++) {
+      f_u[loop_ub] = g_u[loop_ub];
+    }
+
+    c_y = NULL;
+    m = emlrtCreateCharArray(2, &iv2[0]);
+    emlrtInitCharArrayR2013a(&b_st, 8, m, &f_u[0]);
+    emlrtAssign(&c_y, m);
+    c_st.site = &ll_emlrtRSI;
+    b_error(&c_st, y, getString(&c_st, message(&c_st, b_y, c_y, &c_emlrtMCI),
+             &c_emlrtMCI), &c_emlrtMCI);
+  }
+
+  st.site = &pc_emlrtRSI;
+  bid = -1;
+  b_st.site = &sc_emlrtRSI;
+  b_validateattributes(&b_st, baseName_size);
+  b_st.site = &tc_emlrtRSI;
+  c_st.site = &nc_emlrtRSI;
+  b_obj = obj->Base.NameInternal;
+  if (b_obj.Length < 1.0) {
+    loop_ub = 0;
+  } else {
+    loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI, &c_st);
+    loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI, &c_st);
+  }
+
+  obj_size[0] = 1;
+  obj_size[1] = loop_ub;
+  if (loop_ub - 1 >= 0) {
+    memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)loop_ub * sizeof(char_T));
+  }
+
+  if (f_strcmp(obj_data, obj_size, baseName_data, baseName_size)) {
+    bid = 0;
+  } else {
+    d = obj->NumBodies;
+    emlrtForLoopVectorCheckR2021a(1.0, 1.0, d, mxDOUBLE_CLASS, (int32_T)d,
+      &b_emlrtRTEI, &st);
+    i = 0;
+    exitg1 = false;
+    while ((!exitg1) && (i <= (int32_T)d - 1)) {
+      b_st.site = &uc_emlrtRSI;
+      c_obj = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 5, &j_emlrtBCI,
+        &b_st)];
+      c_st.site = &nc_emlrtRSI;
+      b_obj = c_obj->NameInternal;
+      if (b_obj.Length < 1.0) {
+        loop_ub = 0;
+      } else {
+        loop_ub = (int32_T)emlrtIntegerCheckR2012b(b_obj.Length, &emlrtDCI,
+          &c_st);
+        loop_ub = emlrtDynamicBoundsCheckR2012b(loop_ub, 1, 200, &emlrtBCI,
+          &c_st);
+      }
+
+      b_obj_size[0] = 1;
+      b_obj_size[1] = loop_ub;
+      if (loop_ub - 1 >= 0) {
+        memcpy(&obj_data[0], &b_obj.Vector[0], (uint32_T)loop_ub * sizeof(char_T));
+      }
+
+      if (f_strcmp(obj_data, b_obj_size, baseName_data, baseName_size)) {
+        bid = i + 1;
+        exitg1 = true;
+      } else {
+        i++;
+      }
+    }
+  }
+
+  if (bid != 0) {
+    if (bid < 0) {
+      b_obj = obj->Base.NameInternal;
+      st.site = &qc_emlrtRSI;
+      CharacterVector_setVector(&st, &b_obj, baseName_data, baseName_size);
+      obj->Base.NameInternal = b_obj;
+    } else {
+      st.site = &rc_emlrtRSI;
+      for (loop_ub = 0; loop_ub < 51; loop_ub++) {
+        h_u[loop_ub] = i_u[loop_ub];
+      }
+
+      d_y = NULL;
+      m = emlrtCreateCharArray(2, &iv3[0]);
+      emlrtInitCharArrayR2013a(&st, 51, m, &h_u[0]);
+      emlrtAssign(&d_y, m);
+      for (loop_ub = 0; loop_ub < 51; loop_ub++) {
+        h_u[loop_ub] = i_u[loop_ub];
+      }
+
+      e_y = NULL;
+      m = emlrtCreateCharArray(2, &iv4[0]);
+      emlrtInitCharArrayR2013a(&st, 51, m, &h_u[0]);
+      emlrtAssign(&e_y, m);
+      f_y = NULL;
+      for (loop_ub = 0; loop_ub < 2; loop_ub++) {
+        obj_size[loop_ub] = baseName_size[loop_ub];
+      }
+
+      m = emlrtCreateCharArray(2, &obj_size[0]);
+      emlrtInitCharArrayR2013a(&st, baseName_size[1], m, &baseName_data[0]);
+      emlrtAssign(&f_y, m);
+      b_st.site = &jl_emlrtRSI;
+      b_error(&b_st, d_y, getString(&b_st, message(&b_st, e_y, f_y, &d_emlrtMCI),
+               &d_emlrtMCI), &d_emlrtMCI);
+    }
+  }
 }
 
 static void b_validateattributes(const emlrtStack *sp, int32_T a_size[2])
@@ -9166,7 +9677,7 @@ static void RigidBodyTree_addBody(const emlrtStack *sp,
   exitg1 = false;
   while ((!exitg1) && (b_i <= (int32_T)d - 1)) {
     b_st.site = &rd_emlrtRSI;
-    body = obj->Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 4, &t_emlrtBCI,
+    body = obj->Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 5, &t_emlrtBCI,
       &b_st)];
     if (body->Index == 0.0) {
       c_st.site = &od_emlrtRSI;
@@ -9264,18 +9775,18 @@ static void RigidBodyTree_addBody(const emlrtStack *sp,
   st.site = &ld_emlrtRSI;
   body = RigidBody_copy(&st, bodyin, &iobj_0[0], &iobj_1[0], iobj_2);
   i = (int32_T)emlrtIntegerCheckR2012b(bid, &j_emlrtDCI, (emlrtConstCTX)sp) - 1;
-  obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 4, &r_emlrtBCI, (emlrtConstCTX)
+  obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 5, &r_emlrtBCI, (emlrtConstCTX)
     sp)] = body;
   body->Index = bid;
   body->ParentIndex = pid;
   if (pid > 0.0) {
-    emlrtDynamicBoundsCheckR2012b((int32_T)pid - 1, 0, 4, &s_emlrtBCI,
+    emlrtDynamicBoundsCheckR2012b((int32_T)pid - 1, 0, 5, &s_emlrtBCI,
       (emlrtConstCTX)sp);
   }
 
   i = (int32_T)emlrtIntegerCheckR2012b(body->Index, &k_emlrtDCI, (emlrtConstCTX)
     sp);
-  emlrtDynamicBoundsCheckR2012b(i, 1, 5, &m_emlrtBCI, (emlrtConstCTX)sp);
+  emlrtDynamicBoundsCheckR2012b(i, 1, 6, &m_emlrtBCI, (emlrtConstCTX)sp);
   body->JointInternal->InTree = true;
   obj->NumBodies++;
   st.site = &gd_emlrtRSI;
@@ -9318,10 +9829,10 @@ static void RigidBodyTree_addBody(const emlrtStack *sp,
     jnt = body->JointInternal;
     i = (int32_T)emlrtIntegerCheckR2012b(body->Index, &l_emlrtDCI,
       (emlrtConstCTX)sp);
-    obj_Vector_size_idx_1 = emlrtDynamicBoundsCheckR2012b(i, 1, 5, &n_emlrtBCI,
+    obj_Vector_size_idx_1 = emlrtDynamicBoundsCheckR2012b(i, 1, 6, &n_emlrtBCI,
       (emlrtConstCTX)sp) - 1;
     obj->PositionDoFMap[obj_Vector_size_idx_1] = obj->PositionNumber + 1.0;
-    obj->PositionDoFMap[obj_Vector_size_idx_1 + 5] = obj->PositionNumber +
+    obj->PositionDoFMap[obj_Vector_size_idx_1 + 6] = obj->PositionNumber +
       jnt->PositionNumber;
     st.site = &id_emlrtRSI;
     if (body->Index == 0.0) {
@@ -9332,26 +9843,26 @@ static void RigidBodyTree_addBody(const emlrtStack *sp,
     jnt = body->JointInternal;
     i = (int32_T)emlrtIntegerCheckR2012b(body->Index, &m_emlrtDCI,
       (emlrtConstCTX)sp);
-    obj_Vector_size_idx_1 = emlrtDynamicBoundsCheckR2012b(i, 1, 5, &o_emlrtBCI,
+    obj_Vector_size_idx_1 = emlrtDynamicBoundsCheckR2012b(i, 1, 6, &o_emlrtBCI,
       (emlrtConstCTX)sp) - 1;
     obj->VelocityDoFMap[obj_Vector_size_idx_1] = obj->VelocityNumber + 1.0;
-    obj->VelocityDoFMap[obj_Vector_size_idx_1 + 5] = obj->VelocityNumber +
+    obj->VelocityDoFMap[obj_Vector_size_idx_1 + 6] = obj->VelocityNumber +
       jnt->VelocityNumber;
   } else {
     i = (int32_T)emlrtIntegerCheckR2012b(body->Index, &n_emlrtDCI,
       (emlrtConstCTX)sp);
-    obj_Vector_size_idx_1 = emlrtDynamicBoundsCheckR2012b(i, 1, 5, &p_emlrtBCI,
+    obj_Vector_size_idx_1 = emlrtDynamicBoundsCheckR2012b(i, 1, 6, &p_emlrtBCI,
       (emlrtConstCTX)sp);
     for (i = 0; i < 2; i++) {
-      obj->PositionDoFMap[(obj_Vector_size_idx_1 + 5 * i) - 1] = 0.0 - (real_T)i;
+      obj->PositionDoFMap[(obj_Vector_size_idx_1 + 6 * i) - 1] = 0.0 - (real_T)i;
     }
 
     i = (int32_T)emlrtIntegerCheckR2012b(body->Index, &o_emlrtDCI,
       (emlrtConstCTX)sp);
-    obj_Vector_size_idx_1 = emlrtDynamicBoundsCheckR2012b(i, 1, 5, &q_emlrtBCI,
+    obj_Vector_size_idx_1 = emlrtDynamicBoundsCheckR2012b(i, 1, 6, &q_emlrtBCI,
       (emlrtConstCTX)sp);
     for (i = 0; i < 2; i++) {
-      obj->VelocityDoFMap[(obj_Vector_size_idx_1 + 5 * i) - 1] = 0.0 - (real_T)i;
+      obj->VelocityDoFMap[(obj_Vector_size_idx_1 + 6 * i) - 1] = 0.0 - (real_T)i;
     }
   }
 
@@ -9430,7 +9941,7 @@ static real_T RigidBodyTree_findBodyIndexByName(const emlrtStack *sp,
     exitg1 = false;
     while ((!exitg1) && (i <= (int32_T)d - 1)) {
       st.site = &uc_emlrtRSI;
-      b_obj = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 4, &i_emlrtBCI,
+      b_obj = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 5, &j_emlrtBCI,
         &st)];
       b_st.site = &nc_emlrtRSI;
       obj_Length = b_obj->NameInternal.Length;
@@ -10927,7 +11438,7 @@ static void warning(const emlrtStack *sp)
   b_feval(&st, y, feval(&st, b_y, c_y, &j_emlrtMCI), &k_emlrtMCI);
 }
 
-static void mw__internal__call__reset(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void mw__internal__call__reset(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp)
 {
   static const int32_T iv[2] = { 1, 45 };
@@ -11002,7 +11513,7 @@ static void mw__internal__call__reset(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   }
 }
 
-static void mw__internal__call__step(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void mw__internal__call__step(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, real_T b_u0[16], real_T b_u1[6], real_T
   b_u2[4], real_T c_y0[4], real_T *y1_Iterations, real_T *y1_PoseErrorNorm,
   uint16_T *y1_ExitFlag, uint8_T *y1_Status)
@@ -11263,7 +11774,7 @@ static void mw__internal__call__step(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
     for (b_i = 0; b_i < i; b_i++) {
       h_st.site = &if_emlrtRSI;
       obj = moduleInstance->sysobj.IKInternal.RigidBodyTreeInternal->
-        Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 4, &fb_emlrtBCI, &h_st)];
+        Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 5, &fb_emlrtBCI, &h_st)];
       if (obj->Index == 0.0) {
         i_st.site = &od_emlrtRSI;
         error(&i_st);
@@ -11469,7 +11980,7 @@ static void mw__internal__call__step(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
       b_b.vector.data[i] = 0.0;
     }
 
-    emlrtDimSizeGeqCheckR2012b(35, b_b.size[0], &i_emlrtECI, &g_st);
+    emlrtDimSizeGeqCheckR2012b(42, b_b.size[0], &i_emlrtECI, &g_st);
     array_real_T_SetSize(&moduleInstance->sysobj.IKInternal.Solver->
                          ExtraArgs->GradTemp, b_b.size[0]);
     loop_ub = b_b.size[0];
@@ -11759,7 +12270,7 @@ static void RigidBodyTree_get_JointPositionLimits(const emlrtStack *sp,
   emlrtForLoopVectorCheckR2021a(1.0, 1.0, obj_Length, mxDOUBLE_CLASS, (int32_T)
     obj_Length, &f_emlrtRTEI, (emlrtConstCTX)sp);
   for (b_i = 0; b_i < i; b_i++) {
-    body = obj->Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 4, &lb_emlrtBCI,
+    body = obj->Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 5, &lb_emlrtBCI,
       (emlrtConstCTX)sp)];
     st.site = &rf_emlrtRSI;
     b_obj = body->JointInternal;
@@ -11819,7 +12330,7 @@ static void RigidBodyTree_get_JointPositionLimits(const emlrtStack *sp,
   }
 }
 
-static void inverseKinematics_stepImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void inverseKinematics_stepImpl(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, inverseKinematics *obj, real_T tform[16],
   real_T weights[6], real_T initialGuess[4], real_T QSol[4], real_T
   *solutionInfo_Iterations, real_T *solutionInfo_PoseErrorNorm, real_T
@@ -11985,7 +12496,7 @@ static void inverseKinematics_stepImpl(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
     exitg1 = false;
     while ((!exitg1) && (i <= (int32_T)scale - 1)) {
       d_st.site = &uc_emlrtRSI;
-      c_obj = b_obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 4, &i_emlrtBCI,
+      c_obj = b_obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 5, &j_emlrtBCI,
         &d_st)];
       e_st.site = &nc_emlrtRSI;
       obj_Length = c_obj->NameInternal.Length;
@@ -12746,7 +13257,7 @@ static void c_validateattributes(const emlrtStack *sp, real_T a[6])
   }
 }
 
-static void inverseKinematics_solve(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void inverseKinematics_solve(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, inverseKinematics *obj, real_T
   initialGuess[4], real_T QSol[4], real_T *solutionInfo_Iterations, real_T
   *solutionInfo_NumRandomRestarts, real_T *solutionInfo_PoseErrorNorm, real_T
@@ -12783,7 +13294,7 @@ static void inverseKinematics_solve(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   robotics_core_internal_SystemTimeProvider *c_obj;
   robotics_manip_internal_RigidBody *body;
   robotics_manip_internal_RigidBodyTree_1 *d_obj;
-  real_T newseed_data[35];
+  real_T newseed_data[42];
   real_T xSol[4];
   real_T xSolPrev[4];
   real_T apnd;
@@ -12923,7 +13434,7 @@ static void inverseKinematics_solve(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
     bodyIndices.vector.data[0] = 0.0;
   } else {
     b_i = (int32_T)emlrtIntegerCheckR2012b(tol, &pb_emlrtDCI, &st) - 1;
-    body = d_obj->Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 4, &rb_emlrtBCI,
+    body = d_obj->Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 5, &rb_emlrtBCI,
       &st)];
     c_i = 1U;
     while (body->ParentIndex != 0.0) {
@@ -12931,7 +13442,7 @@ static void inverseKinematics_solve(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
         bodyIndices.size[0], &sb_emlrtBCI, &st) - 1] = body->Index;
       b_i = (int32_T)emlrtIntegerCheckR2012b(body->ParentIndex, &qb_emlrtDCI,
         &st) - 1;
-      body = d_obj->Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 4, &tb_emlrtBCI,
+      body = d_obj->Bodies[emlrtDynamicBoundsCheckR2012b(b_i, 0, 5, &tb_emlrtBCI,
         &st)];
       c_i++;
     }
@@ -12983,8 +13494,8 @@ static void inverseKinematics_solve(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
         bodyIndices.size[0] - 1, &vb_emlrtBCI, &st)];
       end = (int32_T)emlrtIntegerCheckR2012b(err, &rb_emlrtDCI, &st);
       positionMap.vector.data[i1 + positionMap.size[0] * b_i] =
-        d_obj->PositionDoFMap[(emlrtDynamicBoundsCheckR2012b(end, 1, 5,
-        &ub_emlrtBCI, &st) + 5 * b_i) - 1];
+        d_obj->PositionDoFMap[(emlrtDynamicBoundsCheckR2012b(end, 1, 6,
+        &ub_emlrtBCI, &st) + 6 * b_i) - 1];
     }
   }
 
@@ -13968,7 +14479,7 @@ static void RigidBodyTree_efficientFKAndJacobianForIK(const emlrtStack *sp,
     } else {
       i = (int32_T)emlrtIntegerCheckR2012b(bid1, &dc_emlrtDCI, (emlrtConstCTX)sp)
         - 1;
-      body1 = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 4, &hc_emlrtBCI,
+      body1 = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 5, &hc_emlrtBCI,
         (emlrtConstCTX)sp)];
     }
 
@@ -14068,7 +14579,7 @@ static void RigidBodyTree_efficientFKAndJacobianForIK(const emlrtStack *sp,
           1, kinematicPathIndices.size[1], &oc_emlrtBCI, (emlrtConstCTX)sp) - 1];
         i1 = (int32_T)emlrtIntegerCheckR2012b(commonAncestorIndex, &ec_emlrtDCI,
           (emlrtConstCTX)sp) - 1;
-        body1 = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i1, 0, 4, &nc_emlrtBCI,
+        body1 = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i1, 0, 5, &nc_emlrtBCI,
           (emlrtConstCTX)sp)];
       } else {
         body1 = &obj->Base;
@@ -14082,7 +14593,7 @@ static void RigidBodyTree_efficientFKAndJacobianForIK(const emlrtStack *sp,
           1, kinematicPathIndices.size[1], &qc_emlrtBCI, (emlrtConstCTX)sp) - 1];
         i1 = (int32_T)emlrtIntegerCheckR2012b(commonAncestorIndex, &fc_emlrtDCI,
           (emlrtConstCTX)sp) - 1;
-        nextBody = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i1, 0, 4,
+        nextBody = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i1, 0, 5,
           &pc_emlrtBCI, (emlrtConstCTX)sp)];
       } else {
         nextBody = &obj->Base;
@@ -14125,10 +14636,10 @@ static void RigidBodyTree_efficientFKAndJacobianForIK(const emlrtStack *sp,
       } else {
         i1 = (int32_T)emlrtIntegerCheckR2012b(nextBody->Index, &wb_emlrtDCI,
           (emlrtConstCTX)sp);
-        minPathLength = emlrtDynamicBoundsCheckR2012b(i1, 1, 5, &yb_emlrtBCI,
+        minPathLength = emlrtDynamicBoundsCheckR2012b(i1, 1, 6, &yb_emlrtBCI,
           (emlrtConstCTX)sp);
         for (i1 = 0; i1 < 2; i1++) {
-          qidx[i1] = obj->PositionDoFMap[(minPathLength + 5 * i1) - 1];
+          qidx[i1] = obj->PositionDoFMap[(minPathLength + 6 * i1) - 1];
         }
 
         if (qidx[0] > qidx[1]) {
@@ -14156,10 +14667,10 @@ static void RigidBodyTree_efficientFKAndJacobianForIK(const emlrtStack *sp,
           Tc2p);
         i1 = (int32_T)emlrtIntegerCheckR2012b(nextBody->Index, &ac_emlrtDCI,
           (emlrtConstCTX)sp);
-        minPathLength = emlrtDynamicBoundsCheckR2012b(i1, 1, 5, &cc_emlrtBCI,
+        minPathLength = emlrtDynamicBoundsCheckR2012b(i1, 1, 6, &cc_emlrtBCI,
           (emlrtConstCTX)sp);
         for (i1 = 0; i1 < 2; i1++) {
-          qidx[i1] = obj->VelocityDoFMap[(minPathLength + 5 * i1) - 1];
+          qidx[i1] = obj->VelocityDoFMap[(minPathLength + 6 * i1) - 1];
         }
 
         if (nextBodyIsParent) {
@@ -14346,7 +14857,7 @@ static void RigidBodyTree_ancestorIndices(const emlrtStack *sp,
   while (body->ParentIndex > 0.0) {
     i = (int32_T)emlrtIntegerCheckR2012b(body->ParentIndex, &ic_emlrtDCI,
       (emlrtConstCTX)sp) - 1;
-    body = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 4, &uc_emlrtBCI,
+    body = obj->Bodies[emlrtDynamicBoundsCheckR2012b(i, 0, 5, &uc_emlrtBCI,
       (emlrtConstCTX)sp)];
     indices->vector.data[emlrtDynamicBoundsCheckR2012b((int32_T)b_i, 1,
       indices->size[1], &wc_emlrtBCI, (emlrtConstCTX)sp) - 1] = body->Index;
@@ -16633,7 +17144,7 @@ static void expand_min(const emlrtStack *sp, coder_array_real_T *a, real_T b_b[4
   }
 }
 
-static void IKHelpers_randomConfig(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void IKHelpers_randomConfig(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance, const emlrtStack *sp, robotics_manip_internal_IKExtraArgs
   *args, real_T rc_data[], int32_T rc_size[1])
 {
@@ -16722,7 +17233,7 @@ static void IKHelpers_randomConfig(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   obj = args->Robot;
   b_st.site = &uj_emlrtRSI;
   posnum = obj->PositionNumber;
-  if (!(posnum <= 35.0)) {
+  if (!(posnum <= 42.0)) {
     for (i = 0; i < 30; i++) {
       b_u[i] = c_u[i];
     }
@@ -16760,10 +17271,10 @@ static void IKHelpers_randomConfig(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   array_real_T_Constructor(&qv);
   array_real_T_Constructor(&x);
   for (b_i = 0; b_i < i; b_i++) {
-    nx = emlrtDynamicBoundsCheckR2012b((int32_T)((uint32_T)b_i + 1U), 1, 5,
+    nx = emlrtDynamicBoundsCheckR2012b((int32_T)((uint32_T)b_i + 1U), 1, 6,
       &hd_emlrtBCI, &st);
     for (i1 = 0; i1 < 2; i1++) {
-      p[i1] = obj->PositionDoFMap[(nx + 5 * i1) - 1];
+      p[i1] = obj->PositionDoFMap[(nx + 6 * i1) - 1];
     }
 
     if (p[0] <= p[1]) {
@@ -17286,7 +17797,7 @@ static void IKHelpers_randomConfig(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
   array_real_T_2D_Destructor(&qi);
 }
 
-static void randn(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void randn(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                   emlrtStack *sp, real_T r[4])
 {
   emlrtStack b_st;
@@ -17313,7 +17824,7 @@ static void randn(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
   }
 }
 
-static void c_rand(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void c_rand(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                    emlrtStack *sp, real_T r[3])
 {
   emlrtStack b_st;
@@ -17356,7 +17867,7 @@ static boolean_T vectorAny(boolean_T x_data[], int32_T x_size[1])
   return y;
 }
 
-static void b_randn(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void b_randn(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                     emlrtStack *sp, real_T r[3])
 {
   emlrtStack b_st;
@@ -17383,7 +17894,7 @@ static void b_randn(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
   }
 }
 
-static void d_rand(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void d_rand(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                    emlrtStack *sp, real_T varargin_1, real_T r_data[], int32_T
                    r_size[1])
 {
@@ -17469,7 +17980,7 @@ static boolean_T any(const emlrtStack *sp, boolean_T x_data[], int32_T x_size[1]
   return y;
 }
 
-static void c_randn(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance, const
+static void c_randn(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance, const
                     emlrtStack *sp, real_T varargin_1[2], real_T r_data[],
                     int32_T r_size[1])
 {
@@ -19776,7 +20287,7 @@ static int32_T div_s32(const emlrtStack *sp, int32_T numerator, int32_T
   return quotient;
 }
 
-static void init_simulink_io_address(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
+static void init_simulink_io_address(InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF
   *moduleInstance)
 {
   moduleInstance->emlrtRootTLSGlobal = (void *)cgxertGetEMLRTCtx
@@ -19794,70 +20305,70 @@ static void init_simulink_io_address(InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE
 }
 
 /* CGXE Glue Code */
-static void mdlOutputs_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S, int_T tid)
+static void mdlOutputs_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S, int_T tid)
 {
-  InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance =
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance =
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_outputs(moduleInstance);
 }
 
-static void mdlInitialize_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S)
+static void mdlInitialize_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S)
 {
-  InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance =
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance =
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_initialize(moduleInstance);
 }
 
-static void mdlUpdate_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S, int_T tid)
+static void mdlUpdate_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S, int_T tid)
 {
-  InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance =
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance =
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_update(moduleInstance);
 }
 
-static void mdlDerivatives_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S)
+static void mdlDerivatives_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S)
 {
-  InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance =
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance =
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_derivative(moduleInstance);
 }
 
-static void mdlTerminate_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S)
+static void mdlTerminate_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S)
 {
-  InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance =
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance =
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_terminate(moduleInstance);
   free((void *)moduleInstance);
 }
 
-static void mdlEnable_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S)
+static void mdlEnable_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S)
 {
-  InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance =
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance =
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_enable(moduleInstance);
 }
 
-static void mdlDisable_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S)
+static void mdlDisable_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S)
 {
-  InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance =
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *)cgxertGetRuntimeInstance(S);
+  InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance =
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *)cgxertGetRuntimeInstance(S);
   cgxe_mdl_disable(moduleInstance);
 }
 
-static void mdlStart_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S)
+static void mdlStart_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S)
 {
-  InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *moduleInstance =
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE *)calloc(1, sizeof
-    (InstanceStruct_RlUt5YazEZ0A5u4lfJgXaE));
+  InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *moduleInstance =
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF *)calloc(1, sizeof
+    (InstanceStruct_eZ8Q20pDV7O0CnikSSPLsF));
   moduleInstance->S = S;
   cgxertSetRuntimeInstance(S, (void *)moduleInstance);
-  ssSetmdlOutputs(S, mdlOutputs_RlUt5YazEZ0A5u4lfJgXaE);
-  ssSetmdlInitializeConditions(S, mdlInitialize_RlUt5YazEZ0A5u4lfJgXaE);
-  ssSetmdlUpdate(S, mdlUpdate_RlUt5YazEZ0A5u4lfJgXaE);
-  ssSetmdlDerivatives(S, mdlDerivatives_RlUt5YazEZ0A5u4lfJgXaE);
-  ssSetmdlTerminate(S, mdlTerminate_RlUt5YazEZ0A5u4lfJgXaE);
-  ssSetmdlEnable(S, mdlEnable_RlUt5YazEZ0A5u4lfJgXaE);
-  ssSetmdlDisable(S, mdlDisable_RlUt5YazEZ0A5u4lfJgXaE);
+  ssSetmdlOutputs(S, mdlOutputs_eZ8Q20pDV7O0CnikSSPLsF);
+  ssSetmdlInitializeConditions(S, mdlInitialize_eZ8Q20pDV7O0CnikSSPLsF);
+  ssSetmdlUpdate(S, mdlUpdate_eZ8Q20pDV7O0CnikSSPLsF);
+  ssSetmdlDerivatives(S, mdlDerivatives_eZ8Q20pDV7O0CnikSSPLsF);
+  ssSetmdlTerminate(S, mdlTerminate_eZ8Q20pDV7O0CnikSSPLsF);
+  ssSetmdlEnable(S, mdlEnable_eZ8Q20pDV7O0CnikSSPLsF);
+  ssSetmdlDisable(S, mdlDisable_eZ8Q20pDV7O0CnikSSPLsF);
   cgxe_mdl_start(moduleInstance);
 
   {
@@ -19867,34 +20378,34 @@ static void mdlStart_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S)
   }
 }
 
-static void mdlProcessParameters_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S)
+static void mdlProcessParameters_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S)
 {
 }
 
-void method_dispatcher_RlUt5YazEZ0A5u4lfJgXaE(SimStruct *S, int_T method, void
+void method_dispatcher_eZ8Q20pDV7O0CnikSSPLsF(SimStruct *S, int_T method, void
   *data)
 {
   switch (method) {
    case SS_CALL_MDL_START:
-    mdlStart_RlUt5YazEZ0A5u4lfJgXaE(S);
+    mdlStart_eZ8Q20pDV7O0CnikSSPLsF(S);
     break;
 
    case SS_CALL_MDL_PROCESS_PARAMETERS:
-    mdlProcessParameters_RlUt5YazEZ0A5u4lfJgXaE(S);
+    mdlProcessParameters_eZ8Q20pDV7O0CnikSSPLsF(S);
     break;
 
    default:
     /* Unhandled method */
     /*
        sf_mex_error_message("Stateflow Internal Error:\n"
-       "Error calling method dispatcher for module: RlUt5YazEZ0A5u4lfJgXaE.\n"
+       "Error calling method dispatcher for module: eZ8Q20pDV7O0CnikSSPLsF.\n"
        "Can't handle method %d.\n", method);
      */
     break;
   }
 }
 
-mxArray *cgxe_RlUt5YazEZ0A5u4lfJgXaE_BuildInfoUpdate(void)
+mxArray *cgxe_eZ8Q20pDV7O0CnikSSPLsF_BuildInfoUpdate(void)
 {
   mxArray * mxBIArgs;
   mxArray * elem_1;
@@ -19977,7 +20488,7 @@ mxArray *cgxe_RlUt5YazEZ0A5u4lfJgXaE_BuildInfoUpdate(void)
   return mxBIArgs;
 }
 
-mxArray *cgxe_RlUt5YazEZ0A5u4lfJgXaE_fallback_info(void)
+mxArray *cgxe_eZ8Q20pDV7O0CnikSSPLsF_fallback_info(void)
 {
   const char* fallbackInfoFields[] = { "fallbackType", "incompatiableSymbol" };
 

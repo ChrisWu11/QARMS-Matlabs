@@ -1,0 +1,15 @@
+  <!-- ===== Soft Gripper (Visual Only) ===== -->
+  <link name="soft_gripper">
+    <visual>
+      <origin xyz="0.04 0 0" rpy="0 0 0"/>
+      <geometry>
+        <mesh filename="../meshes/soft_gripper_visual.stl" scale="1 1 1"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <joint name="ee_to_soft_gripper" type="fixed">
+    <parent link="END_EFFECTOR"/>
+    <child link="soft_gripper"/>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
