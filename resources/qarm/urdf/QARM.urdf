@@ -286,4 +286,31 @@
       effort="0"
       velocity="0" />
   </joint>
+<link name="quad_fruit_gripper">
+  <inertial>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <mass value="0.06"/>
+    <inertia ixx="1e-4" ixy="0" ixz="0" iyy="1e-4" iyz="0" izz="1e-4"/>
+  </inertial>
+
+  <visual>
+    <origin xyz="0 0 0.015" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://meshes/QARM_quad_fruit_gripper.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </visual>
+
+  <collision>
+    <origin xyz="0 0 0.015" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="package://meshes/QARM_quad_fruit_gripper.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<joint name="ee_to_quad_fruit_gripper" type="fixed">
+  <parent link="END-EFFECTOR"/>
+  <child link="quad_fruit_gripper"/>
+  <origin xyz="0 0 0.03" rpy="1.57079632679 0 0"/>
+</joint>
 </robot>
