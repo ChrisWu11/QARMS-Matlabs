@@ -1,0 +1,47 @@
+# MATLAB and Simulink generated files
+slprj/
+*_grt_rtw/
+*_ert_rtw/
+*_rtw/
+*.slxc
+*.mexw64
+*.asv
+*.m~
+*.autosave
+*_autosave.json
+*.original
+
+# Build products and local executables
+*.exe
+*.obj
+*.lib
+*.exp
+*.map
+*.pdb
+*.ilk
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# YOLO training output and datasets
+runs/
+datasets/
+datasets_clean/
+*.cache
+
+# Archives and temporary uploads
+*.zip
+*.7z
+*.rar
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+startup_disabled.m
